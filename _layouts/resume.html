@@ -3,24 +3,24 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
+  <!-- {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
-  {{ content }}
+  {{ content }} -->
 
 
-  {% if site.paginate %}
+  <!-- {% if site.paginate %}
   {% assign posts = paginator.posts %}
-  {% else %}
+  {% else %} -->
   {% assign posts = site.posts %}
-  {% endif %}
+  <!-- {% endif %} -->
 
 
   {%- if posts.size > 0 -%}
-  {%- if page.list_title -%}
+  <!-- {%- if page.list_title -%}
   <h2 class="post-list-heading">{{ page.list_title }}</h2>
-  {%- endif -%}
+  {%- endif -%} -->
   <ul class="post-list">
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {%- for post in posts -%}
@@ -38,7 +38,7 @@ layout: default
     {%- endfor -%}
   </ul>
 
-  {% if site.paginate %}
+  <!-- {% if site.paginate %}
   <div class="pager">
     <ul class="pagination">
       {%- if paginator.previous_page %}
@@ -61,7 +61,7 @@ layout: default
       {%- endif %}
     </ul>
   </div>
-  {%- endif %}
+  {%- endif %} -->
 
   {%- endif -%}
 
