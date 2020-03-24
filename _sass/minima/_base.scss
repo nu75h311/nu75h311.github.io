@@ -5,10 +5,23 @@ html {
 /**
  * Reset some basic elements
  */
-body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
-dl, dd, ol, ul, figure {
-  margin: 0;
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+hr,
+dl,
+dd,
+ol,
+ul,
+figure {
+  margin : 0;
   padding: 0;
 
 }
@@ -19,19 +32,19 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-feature-settings: "kern" 1;
-     -moz-font-feature-settings: "kern" 1;
-       -o-font-feature-settings: "kern" 1;
-          font-feature-settings: "kern" 1;
-  font-kerning: normal;
-  display: flex;
-  min-height: 100vh;
-  flex-direction: column;
-  overflow-wrap: break-word;
+  font                         : $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  color                        : $text-color;
+  background-color             : $background-color;
+  -webkit-text-size-adjust     : 100%;
+  -webkit-font-feature-settings: "kern"1;
+  -moz-font-feature-settings   : "kern"1;
+  -o-font-feature-settings     : "kern"1;
+  font-feature-settings        : "kern"1;
+  font-kerning                 : normal;
+  display                      : flex;
+  min-height                   : 100vh;
+  flex-direction               : column;
+  overflow-wrap                : break-word;
 }
 
 
@@ -39,15 +52,25 @@ body {
 /**
  * Set `margin-bottom` to maintain vertical rhythm
  */
-h1, h2, h3, h4, h5, h6,
-p, blockquote, pre,
-ul, ol, dl, figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+ul,
+ol,
+dl,
+figure,
 %vertical-rhythm {
   margin-bottom: $spacing-unit / 2;
 }
 
 hr {
-  margin-top: $spacing-unit;
+  margin-top   : $spacing-unit;
   margin-bottom: $spacing-unit;
 }
 
@@ -55,7 +78,8 @@ hr {
  * `main` element
  */
 main {
-  display: block; /* Default value of `display` of `main` element is 'inline' in IE 11. */
+  display: block;
+  /* Default value of `display` of `main` element is 'inline' in IE 11. */
 }
 
 
@@ -64,7 +88,7 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
+  max-width     : 100%;
   vertical-align: middle;
 }
 
@@ -73,7 +97,7 @@ img {
 /**
  * Figures
  */
-figure > img {
+figure>img {
   display: block;
 }
 
@@ -86,13 +110,15 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
+ul,
+ol {
   margin-left: $spacing-unit;
 }
 
 li {
-  > ul,
-  > ol {
+
+  >ul,
+  >ol {
     margin-bottom: 0;
   }
 }
@@ -102,7 +128,12 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: $base-font-weight;
 }
 
@@ -112,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $link-base-color;
+  color          : $link-base-color;
   text-decoration: none;
 
   &:visited {
@@ -120,7 +151,7 @@ a {
   }
 
   &:hover {
-    color: $text-color;
+    color          : $text-color;
     text-decoration: underline;
   }
 
@@ -138,8 +169,8 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $brand-color;
-  border-left: 4px solid $brand-color-light;
+  color       : $brand-color;
+  border-left : 4px solid $brand-color-light;
   padding-left: $spacing-unit / 2;
   @include relative-font-size(1.125);
   font-style: italic;
@@ -148,11 +179,11 @@ blockquote {
     margin-bottom: 0;
   }
 
-  i, em {
+  i,
+  em {
     font-style: normal;
   }
 }
-
 
 
 /**
@@ -160,10 +191,10 @@ blockquote {
  */
 pre,
 code {
-  font-family: $code-font-family;
-  font-size: 0.9375em;
-  border: 1px solid $brand-color-light;
-  border-radius: 3px;
+  font-family     : $code-font-family;
+  font-size       : 0.9375em;
+  border          : 1px solid $brand-color-light;
+  border-radius   : 3px;
   background-color: $code-background-color;
 }
 
@@ -172,19 +203,19 @@ code {
 }
 
 pre {
-  padding: 8px 12px;
+  padding   : 8px 12px;
   overflow-x: auto;
 
-  > code {
-    border: 0;
+  >code {
+    border       : 0;
     padding-right: 0;
-    padding-left: 0;
+    padding-left : 0;
   }
 }
 
 .highlight {
   border-radius: 3px;
-  background: $code-background-color;
+  background   : $code-background-color;
   @extend %vertical-rhythm;
 
   .highlighter-rouge & {
@@ -193,36 +224,12 @@ pre {
 }
 
 
-
 /**
  * Wrapper
  */
 .wrapper {
-  max-width: calc(#{$content-width} - (#{$spacing-unit}));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
-  @extend %clearfix;
-
-  @media screen and (min-width: $on-large) {
-    max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
-    padding-right: $spacing-unit;
-    padding-left: $spacing-unit;
-  }
+  width  : 100%;
 }
-
-
-
-/**
- * Clearfix
- */
-%clearfix:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 
 
 /**
@@ -238,11 +245,11 @@ pre {
 }
 
 .svg-icon {
-  width: 16px;
-  height: 16px;
-  display: inline-block;
-  fill: currentColor;
-  padding: 5px 3px 2px 5px;
+  width         : 16px;
+  height        : 16px;
+  display       : inline-block;
+  fill          : currentColor;
+  padding       : 5px 3px 2px 5px;
   vertical-align: text-bottom;
 }
 
@@ -251,32 +258,37 @@ pre {
  * Tables
  */
 table {
-  margin-bottom: $spacing-unit;
-  width: 100%;
-  text-align: $table-text-align;
-  color: $table-text-color;
+  margin-bottom  : $spacing-unit;
+  width          : 100%;
+  text-align     : $table-text-align;
+  color          : $table-text-color;
   border-collapse: collapse;
-  border: 1px solid $table-border-color;
+  border         : 1px solid $table-border-color;
+
   tr {
     &:nth-child(even) {
       background-color: $table-zebra-color;
     }
   }
-  th, td {
+
+  th,
+  td {
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
+
   th {
     background-color: $table-header-bg-color;
-    border: 1px solid $table-header-border;
+    border          : 1px solid $table-header-border;
   }
+
   td {
     border: 1px solid $table-border-color;
   }
 
   @include media-query($on-laptop) {
-    display: block;
-    overflow-x: auto;
+    display                   : block;
+    overflow-x                : auto;
     -webkit-overflow-scrolling: touch;
-            -ms-overflow-style: -ms-autohiding-scrollbar;
+    -ms-overflow-style        : -ms-autohiding-scrollbar;
   }
 }
