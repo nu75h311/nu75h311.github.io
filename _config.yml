@@ -9,13 +9,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   A resume/cv project using Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  nu75h311
-linkedin_username: adriano-tanoue
+
+# generate social links in footer
+social_links:
+  github: nu75h311
+  linkedin: adriano-tanoue
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
