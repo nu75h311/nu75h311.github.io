@@ -9,18 +9,32 @@
 
 .col-1 {
     float           : left;
-    width           : 24%;
-    padding         : 0.2em;
+    width           : 25%;
     background-color: lightgrey
 }
 
 .col-2 {
     float           : right;
     width           : 74%;
-    padding         : 0.2em;
+    margin-left     : 0.5em;
     background-color: green;
 }
 
 .contact-text {
+    margin-top: 1em;
     text-align: center;
+}
+
+.section {
+    margin-top      : 0.5em;
+    text-align      : center;
+    background-color: $that-orange;
+}
+
+.summary-text {
+    margin: 0.5em;
+
+    p {
+        margin-bottom: 0.3em;
+    }
 }
