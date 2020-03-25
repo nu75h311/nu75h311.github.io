@@ -1,0 +1,20 @@
+<div>
+    {% assign skills = site.data.skills %}
+    <h1 class="section-title">SKILLS</h1>
+
+    {% for skill-cat in skills %}
+        <div class="skill-category">
+            <h2>{{ skill-cat[0] }}</h2>
+            <ul class="skill-list">
+                {% for skill in skill-cat[1] %}
+                <li>
+                    <div class="skill-name">{{ skill.name }}</div>
+                    <div class="skill-container">
+                        <div class="skill" style="width: {{ skill.score }};"></div>
+                    </div>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    {% endfor %}
+</div>

@@ -1,0 +1,124 @@
+{
+    "PROCESSES": [
+        {
+            "name": "TEST MANAGEMENT",
+            "score": "100%"
+        },
+        {
+            "name": "TEST AUTOMATION",
+            "score": "90%"
+        },
+        {
+            "name": "DEFECT LIFECYCLE",
+            "score": "100%"
+        },
+        {
+            "name": "BDD",
+            "score": "100%"
+        },
+        {
+            "name": "BUSINESS ANALYSIS",
+            "score": "80%"
+        },
+        {
+            "name": "AGILE",
+            "score": "90%"
+        },
+        {
+            "name": "SCRUM",
+            "score": "90%"
+        }
+    ],
+    "TOOLS": [
+        {
+            "name": "JAVA",
+            "score": "80%"
+        },
+        {
+            "name": "JAVASCRIPT",
+            "score": "60%"
+        },
+        {
+            "name": "SELENIUM",
+            "score": "90%"
+        },
+        {
+            "name": "PROTRACTOR",
+            "score": "70%"
+        },
+        {
+            "name": "TESTFX",
+            "score": "80%"
+        },
+        {
+            "name": "SERENITY-BDD",
+            "score": "100%"
+        },
+        {
+            "name": "CUCUMBER",
+            "score": "100%"
+        },
+        {
+            "name": "ALM / JIRA",
+            "score": "90%"
+        },
+        {
+            "name": "REST ASSURED",
+            "score": "80%"
+        },
+        {
+            "name": "SPRING C CONTRACT",
+            "score": "60%"
+        },
+        {
+            "name": "GIT",
+            "score": "70%"
+        },
+        {
+            "name": "JENKINS",
+            "score": "70%"
+        },
+        {
+            "name": "MONGODB",
+            "score": "40%"
+        },
+        {
+            "name": "EXPRESS",
+            "score": "30%"
+        },
+        {
+            "name": "REACT",
+            "score": "30%"
+        }
+    ],
+    "PERSONAL": [
+        {
+            "name": "TEAMWORK",
+            "score": "100%"
+        },
+        {
+            "name": "COMMUNICATION",
+            "score": "100%"
+        },
+        {
+            "name": "MENTORING",
+            "score": "100%"
+        },
+        {
+            "name": "SELF-LEARNER",
+            "score": "90%"
+        },
+        {
+            "name": "ADAPTABILITY",
+            "score": "100%"
+        },
+        {
+            "name": "LEADERSHIP",
+            "score": "80%"
+        },
+        {
+            "name": "ORGANIZATION",
+            "score": "100%"
+        }
+    ]
+}
