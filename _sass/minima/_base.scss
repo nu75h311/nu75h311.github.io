@@ -228,28 +228,21 @@ pre {
  * Wrapper
  */
 .wrapper {
-  width  : 100%;
+  width: 100%;
 }
 
 
 /**
  * Icons
  */
-
-.orange {
-  color: #f66a0a;
-}
-
-.grey {
-  color: #828282;
-}
-
 .svg-icon {
-  width         : 16px;
-  height        : 16px;
+  width         : 20px;
+  height        : 20px;
+  transform     : scale(2);
   display       : inline-block;
+  color         : $that-orange;
   fill          : currentColor;
-  padding       : 5px 3px 2px 5px;
+  padding       : 7px 3px 2px 7px;
   vertical-align: text-bottom;
 }
 
