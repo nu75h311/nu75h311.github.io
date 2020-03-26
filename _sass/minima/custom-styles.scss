@@ -17,16 +17,20 @@
     float           : right;
     width           : 74%;
     margin-left     : 1%;
-    background-color: green;
+    background-color: lighten($color: lightgrey, $amount: 10);
+}
+
+.top-banner {
+    height: $spacing-unit * 4;
 }
 
 .contact-text {
-    margin-top: 1em;
+    margin-top: $spacing-unit / 2;
     text-align: center;
 }
 
 .section-title {
-    margin-top      : 1em;
+    margin-top      : $spacing-unit / 2;
     text-align      : center;
     background-color: $that-orange;
 }
@@ -68,4 +72,15 @@
         background-color: $that-orange;
         border-radius   : 0.3em;
     }
+}
+
+.name {
+    margin-top   : $spacing-unit / 2;
+    margin-bottom: 0;
+    text-align   : center;
+}
+
+.title {
+    margin    : 0;
+    text-align: center;
 }
