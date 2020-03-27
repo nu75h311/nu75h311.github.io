@@ -1,0 +1,59 @@
+{
+    "jobs": [
+        {
+            "role": "TEST ENGINEER",
+            "company": "WAES (allocated @ ASML)",
+            "period": "2017 – present",
+            "achievements": [
+                "Implemented the test strategy for multiple teams, defining the functional level test automation framework.",
+                "Shaped the Way of Working for quality in the team (from defining requirements for Behavior Driven Development to producing automated documentation).",
+                "Participated in a joint effort to find best practices applicable to other teams in the division."
+            ]
+        },
+        {
+            "role": "QA TECHNICAL SPECIALIST",
+            "company": "Wipro Technologies (allocated @ Mastercard)",
+            "period": "2014 – 2017",
+            "achievements": [
+                "Spearheaded manual-to-automation transition of QA Team.",
+                "Led QA in newly formed Technical Specialists Team.",
+                "Created the first ever Quality Assurance upscale training to help a team with various levels of experience to scale up multiple degrees in short time.",
+                "Delivered a workshop to make development teams across the company more quality oriented and cross functional."
+            ]
+        },
+        {
+            "role": "TEST LEAD",
+            "company": "Telefônica Brasil (former Global Village Telecom)",
+            "period": "2013 – 2014",
+            "achievements": [
+                "Created and standardized a tool to generate test execution daily reports for all active projects.",
+                "Led the definition of a Quality Assurance framework for testing teams.",
+                "Automated the setup of test environments reducing a 4 hours effort to 20 minutes."
+            ]
+        },
+        {
+            "role": "QA CONSULTANT",
+            "company": "Cognizant Solutions (allocated @ JMalucelli Seguradora)",
+            "period": "2011 - 2012",
+            "achievements": [
+                "Built the QA process of the client company from ground up, with no ALM tools.",
+                "Nominated by Travelers consultants to in interchanging roles between QA and project manager whenever required."
+            ]
+        },
+        {
+            "role": "TEST COORDINATOR",
+            "company": "HSBC Global Technology",
+            "period": "2009 - 2011",
+            "achievements": [
+                "HSBC RISE awarded for efforts in mentoring new team members.",
+                "Orchestrated multi-functional, internationally scattered teams in developing Test Plans, Test Strategies and Test Execution for several projects."
+            ]
+        },
+        {
+            "role": "TEST ANALYST",
+            "company": "Hewlett-Packard (former Electronic Data Systems)",
+            "period": "2005 – 2008",
+            "achievements": []
+        }
+    ]
+}

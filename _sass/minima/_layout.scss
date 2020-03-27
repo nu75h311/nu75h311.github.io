@@ -5,23 +5,24 @@
   width       : $max-width;
   margin-left : auto;
   margin-right: auto;
-  padding     : $spacing-unit*2.5 0;
+  padding     : $spacing-unit/3 0;
 }
 
 /**
  * Site header
  */
 .site-header {
+  width           : $max-width;
+  margin-left     : auto;
+  margin-right    : auto;
   z-index         : 1;
   background-color: $background-color;
   overflow        : hidden;
-  position        : fixed;
+  position        : sticky;
   top             : 0;
-  width           : $max-width;
-  align-self      : center;
   border-top      : 5px solid $brand-color-dark;
   border-bottom   : 1px solid $brand-color-light;
-  min-height      : $spacing-unit * 1.865;
+  min-height      : $spacing-unit * 1.75;
   line-height     : $base-line-height * $base-font-size * 2.25;
 }
 
