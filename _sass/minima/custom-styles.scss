@@ -1,23 +1,23 @@
 .row {
     position: relative;
     width   : 100%;
+    display : table;
 }
 
 .row [class^="col"] {
-    min-height: 0.125rem;
+    display       : table-cell;
+    vertical-align: top;
 }
 
 .col-1 {
-    float           : left;
-    width           : 25%;
-    background-color: lightgrey
+    width              : 25%;
+    background-color   : lightgrey
 }
 
 .col-2 {
-    float           : right;
-    width           : 74%;
-    margin-left     : 1%;
-    background-color: lighten($color: lightgrey, $amount: 10);
+    width              : 74%;
+    padding-left       : 1%;
+    background-color   : whitesmoke;
 }
 
 .top-banner {
@@ -44,6 +44,14 @@
     }
 }
 
+.skill-category {
+    h3 {
+        font-weight  : bold;
+        margin-left  : 2%;
+        margin-bottom: 0.3em;
+    }
+}
+
 .skill-list {
     display      : flow-root;
     list-style   : none;
@@ -52,24 +60,21 @@
 }
 
 .skill-name {
-    margin-top : 2%;
-    margin-left: 2%;
-    font-size  : $small-font-size;
-    float      : left;
-    width      : 53%;
+    margin   : 2% 0 0 2%;
+    font-size: $small-font-size;
+    float    : left;
+    width    : 53%;
 }
 
 .skill-container {
-    margin-top      : 2%;
-    margin-right    : 2%;
+    margin          : 2% 2% 0 0;
     float           : right;
     width           : 43%;
     background-color: lighten($color: $dark-red, $amount: 53);
     border-radius   : 0.3em;
 
     .skill {
-        padding-top     : 0.5em;
-        padding-bottom  : 0.5em;
+        padding         : 0.5em 0;
         background-color: $dark-red;
         border-radius   : 0.3em;
     }
@@ -78,39 +83,50 @@
 .name {
     margin-top   : $spacing-unit / 2;
     margin-bottom: 0;
+    color        : $dark-red;
+    font-size    : $base-font-size * 2.5;
+    font-weight  : bold;
     text-align   : center;
 }
 
 .title {
     margin    : 0;
+    color     : darken($color: darkgray, $amount: 20);
+    font-size : $base-font-size * 2;
     text-align: center;
 }
 
 .role {
-    margin: 0;
-    float : left;
+    margin        : 0 0 0 1%;
+    font-weight   : bold;
+    text-transform: uppercase;
+    float         : left;
 }
 
 .period {
-    margin: 0;
+    margin: 0 1% 0 0;
     float : right;
 }
 
-.company {
-    margin: 0;
+.company,
+.institution {
+    margin: 0 0 0.5em 1%;
+    color : $dark-red;
     clear : both;
 }
 
 .achievements {
     list-style-type: square;
+    margin         : 0 0 1.5em 2em;
 }
 
 .course {
-    margin: 0;
-    float : left;
+    margin        : 0 0 0 1%;
+    font-weight   : bold;
+    text-transform: uppercase;
+    float         : left;
 }
 
-.institution {
-    margin: 0;
-    clear : both;
+.place {
+    margin: 0 0 1em 1%;
 }

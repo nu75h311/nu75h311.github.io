@@ -1,13 +1,13 @@
 {
     "courses": [
         {
-            "name": "GAME DEVELOPMENT",
+            "name": "Game Development",
             "institution": "PUC-PR - Pontifícia Universidade Católica do Paraná",
             "period": "2010 – 2012",
             "place": "Curitiba, PR - Brazil."
         },
         {
-            "name": "ELECTRICAL ENGINEERING",
+            "name": "Electrical Engineering",
             "institution": "FEI - Fundação Educacional Inaciana",
             "period": "2002 – 2006",
             "place": "São Bernardo do Campo, SP - Brazil."

@@ -1,7 +1,7 @@
 {
     "jobs": [
         {
-            "role": "TEST ENGINEER",
+            "role": "Test Engineer",
             "company": "WAES (allocated @ ASML)",
             "period": "2017 – present",
             "achievements": [
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "role": "QA TECHNICAL SPECIALIST",
+            "role": "QA Technical Specialist",
             "company": "Wipro Technologies (allocated @ Mastercard)",
             "period": "2014 – 2017",
             "achievements": [
@@ -22,7 +22,7 @@
             ]
         },
         {
-            "role": "TEST LEAD",
+            "role": "Test Lead",
             "company": "Telefônica Brasil (former Global Village Telecom)",
             "period": "2013 – 2014",
             "achievements": [
@@ -32,7 +32,7 @@
             ]
         },
         {
-            "role": "QA CONSULTANT",
+            "role": "QA Consultant",
             "company": "Cognizant Solutions (allocated @ JMalucelli Seguradora)",
             "period": "2011 - 2012",
             "achievements": [
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "role": "TEST COORDINATOR",
+            "role": "Test Coordinator",
             "company": "HSBC Global Technology",
             "period": "2009 - 2011",
             "achievements": [
@@ -50,7 +50,7 @@
             ]
         },
         {
-            "role": "TEST ANALYST",
+            "role": "Test Analyst",
             "company": "Hewlett-Packard (former Electronic Data Systems)",
             "period": "2005 – 2008",
             "achievements": []
