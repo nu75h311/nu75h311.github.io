@@ -131,11 +131,16 @@
  * Site footer
  */
 .site-footer {
-  width       : $max-width;
-  margin-left : auto;
-  margin-right: auto;
-  border-top  : 1px solid $brand-color-light;
-  padding     : $spacing-unit/4 0 $spacing-unit;
+  width           : $max-width;
+  margin-left     : auto;
+  margin-right    : auto;
+  z-index         : 1;
+  background-color: $background-color;
+  overflow        : hidden;
+  position        : sticky;
+  bottom          : 0;
+  border-top      : 1px solid $brand-color-light;
+  padding         : $spacing-unit/4 0 $spacing-unit;
 }
 
 // .footer-heading {
