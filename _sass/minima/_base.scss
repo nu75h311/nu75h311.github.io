@@ -151,7 +151,7 @@ a {
   }
 
   &:hover {
-    color          : $that-orange;
+    color          : $dark-red;
     text-decoration: underline;
   }
 
@@ -236,7 +236,7 @@ pre {
   height        : 20px;
   transform     : scale(2);
   display       : inline-block;
-  color         : $that-orange;
+  color         : $dark-red;
   fill          : currentColor;
   padding       : 6px 3px 2px 7px;
   vertical-align: text-bottom;

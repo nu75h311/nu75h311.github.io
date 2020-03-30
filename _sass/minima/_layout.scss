@@ -57,7 +57,7 @@
   }
 
   .active {
-    background-color: $that-orange;
+    background-color: $dark-red;
   }
 
   // .nav-trigger {
@@ -255,7 +255,7 @@
       border : 1px solid transparent;
 
       &:hover {
-        border-color: $that-orange
+        border-color: $dark-red
       }
     }
   }

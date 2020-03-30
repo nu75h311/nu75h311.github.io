@@ -32,7 +32,8 @@
 .section-title {
     margin-top      : $spacing-unit / 2;
     text-align      : center;
-    background-color: $that-orange;
+    color           : whitesmoke;
+    background-color: $dark-red;
 }
 
 .summary-text {
@@ -63,13 +64,13 @@
     margin-right    : 2%;
     float           : right;
     width           : 43%;
-    background-color: lighten($color: $that-orange, $amount: 18);
+    background-color: lighten($color: $dark-red, $amount: 53);
     border-radius   : 0.3em;
 
     .skill {
         padding-top     : 0.5em;
         padding-bottom  : 0.5em;
-        background-color: $that-orange;
+        background-color: $dark-red;
         border-radius   : 0.3em;
     }
 }
@@ -102,4 +103,14 @@
 
 .achievements {
     list-style-type: square;
+}
+
+.course {
+    margin: 0;
+    float : left;
+}
+
+.institution {
+    margin: 0;
+    clear : both;
 }
