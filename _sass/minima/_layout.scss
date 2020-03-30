@@ -1,3 +1,11 @@
+@media print {
+
+  .no-print,
+  .no-print * {
+    display: none !important;
+  }
+}
+
 /**
  * Page content
  */
@@ -63,7 +71,7 @@
     }
   }
 
-  .print-button {
+  .pdf-button {
     float: right;
   }
 
@@ -127,7 +135,7 @@
   margin-left : auto;
   margin-right: auto;
   border-top  : 1px solid $brand-color-light;
-  padding     : $spacing-unit/2 0;
+  padding     : $spacing-unit/4 0 $spacing-unit;
 }
 
 // .footer-heading {
@@ -145,11 +153,11 @@
   margin-left: 0;
 }
 
-.footer-col-wrapper {
-  @include relative-font-size(0.9375);
-  color  : $brand-color;
-  padding: 0.2em;
-}
+// .footer-col-wrapper {
+//   @include relative-font-size(0.9375);
+//   color  : $brand-color;
+//   padding: 0.2em;
+// }
 
 
 // .page-heading {

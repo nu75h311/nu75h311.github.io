@@ -6,7 +6,7 @@
 
 title: Adriano Tanoue
 description: >- # this means to ignore newlines until "baseurl:"
-  A resume/cv project using Jekyll.
+  resume and CV
 
 author:
   email: adriano.tanoue@gmail.com
@@ -22,7 +22,6 @@ social_links:
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
