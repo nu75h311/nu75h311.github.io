@@ -8,9 +8,11 @@
             <ul class="skill-list">
                 {% for skill in skill-cat[1] %}
                 <li>
-                    <div class="skill-name">{{ skill.name }}</div>
-                    <div class="skill-container">
-                        <div class="skill" style="width: {{ skill.score }};"></div>
+                    <div class="skill-block">
+                        <div class="skill-name">{{ skill.name }}</div>
+                        <div class="skill-container">
+                            <div class="skill" style="width: {{ skill.score }};"></div>
+                        </div>
                     </div>
                 </li>
                 {% endfor %}

@@ -115,15 +115,20 @@ h2 {
     margin-bottom: 1.5em;
 }
 
+.skill-block {
+    display        : flex;
+    justify-content: space-between;
+    margin         : 2% 2% 0 2%;
+}
+
 .skill-name {
-    margin   : 2% 0 0 2%;
     font-size: $small-font-size;
     float    : left;
     width    : 53%;
 }
 
 .skill-container {
-    margin          : 2% 2% 0 0;
+    margin          : auto 0 auto;
     float           : right;
     width           : 43%;
     background-color: lighten($color: $main-color, $amount: 53);
