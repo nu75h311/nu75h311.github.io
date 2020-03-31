@@ -1,0 +1,19 @@
+{% assign education = site.data.education %}
+
+<div>
+    <h3 class="section-title">BACKGROUND</h3>
+    <table class="two-columns-table">
+        <tr>
+            <th>Education</th>
+            <th></th>
+        </tr>
+
+        {% for academic-course in education.academic %}
+            <tr>
+                <td>{{ academic-course.period }}</td>
+                <td>{{ academic-course.level }} in {{ academic-course.name }}<br>
+                    {{ academic-course.institution }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</div>
