@@ -1,11 +1,13 @@
+{% assign pdfs = site.data.general.pdfs %}
+
 <header class="site-header no-print">
 
   <div class="wrapper">
     <ul class="site-nav" id="site-nav">
 
-      <li {% if page.url == "/" %} class="active" {% endif %}><a href="{{ "/" | relative_url }}">Resume</a></li>
-      <li {% if page.url == "/cv/" %} class="active" {% endif %}><a href="{{ "/cv" | relative_url }}">CV</a></li>
-      <li class="pdf-button"><a href="{{ "/assets/pdfs/Adriano_Tanoue_resume.pdf" | relative_url }}" target= "_blank">PDF version</a></li>
+      <li {% if page.url == "/" %} class="active" {% endif %}><a href="/">Resume</a></li>
+      <li {% if page.url == "/cv/" %} class="active" {% endif %}><a href="/cv">CV</a></li>
+      <li class="pdf-button"><a href="/assets/pdfs/{{ pdfs.resume }}" target="_blank">PDF version</a></li>
 
     </ul>
   </div>

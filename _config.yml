@@ -4,19 +4,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Adriano Tanoue
 description: >- # this means to ignore newlines until "baseurl:"
   resume and CV
-
-author:
-  email: adriano.tanoue@gmail.com
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# generate social links in footer
-social_links:
-  github: nu75h311
-  linkedin: adriano-tanoue
 
 # Build settings
 theme: minima

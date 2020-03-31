@@ -81,19 +81,21 @@
 }
 
 .name {
-    margin-top   : $spacing-unit / 2;
-    margin-bottom: 0;
-    color        : $dark-red;
-    font-size    : $base-font-size * 2.5;
-    font-weight  : bold;
-    text-align   : center;
+    margin-top    : $spacing-unit / 2;
+    margin-bottom : 0;
+    text-transform: uppercase;
+    color         : $dark-red;
+    font-size     : $base-font-size * 2.5;
+    font-weight   : bold;
+    text-align    : center;
 }
 
 .title {
-    margin    : 0;
-    color     : darken($color: darkgray, $amount: 20);
-    font-size : $base-font-size * 2;
-    text-align: center;
+    margin        : 0;
+    text-transform: uppercase;
+    color         : darken($color: darkgray, $amount: 20);
+    font-size     : $base-font-size * 2;
+    text-align    : center;
 }
 
 .role {

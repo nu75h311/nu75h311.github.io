@@ -1,10 +1,12 @@
+{% assign info = site.data.general %}
+
 <div class="top-banner">
     <div class="contact-text">
         <p>
-            Veldhoven,<br>
-            Netherlands
+            {{ info.residence.city }},<br>
+            {{ info.residence.country }}
         </p>
-        <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a>
+        <a href="mailto:{{ info.email }}">{{ info.email }}</a>
     </div>
     
     <div class="social-links">

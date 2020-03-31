@@ -1,11 +1,10 @@
+{% assign summary-lines = site.data.general.summary %}
+
 <div>
     <h1 class="section-title">SUMMARY</h1>
     <div class="summary-text">
-        <p>Proven QA Specialist with 12+ years of experience helping companies ranging from small businesses to
-            multinationals.</p>
-        <p>Award-winning execution and delivery.</p>
-        <p>Knack for creating and providing training that expands team capabilities.</p>
-        <p>Excellent interpersonal, phone, and digital communication skills.</p>
-        <p>Research oriented.</p>
+        {% for line in summary-lines %}
+         <p>{{ line }}</p>
+        {% endfor %}
     </div>
 </div>

@@ -1,0 +1,28 @@
+{
+    "name": "Adriano Tanoue",
+    "email": "adriano.tanoue@gmail.com",
+    "date-of-birth": "18-Sep-1984",
+    "residence": {
+        "city": "Veldhoven",
+        "country": "the Netherlands"
+    },
+    "languages": "Portuguese (native), English, French",
+    "nationality": "Brazilian",
+    "title-1": "Test Engineer",
+    "title-2": "Quality Assurance Specialist",
+    "experience-since": "2005",
+    "social-links": {
+        "github": "nu75h311",
+        "linkedin": "adriano-tanoue"
+    },
+    "pdfs": {
+        "resume": "Adriano_Tanoue_resume.pdf"
+    },
+    "summary": [
+        "Proven QA Specialist with 14+ years of experience helping companies ranging from small businesses to multinationals.",
+        "Award-winning execution and delivery.",
+        "Knack for creating and providing training that expands team capabilities.",
+        "Excellent interpersonal, phone, and digital communication skills.",
+        "Research oriented."
+    ]
+}
