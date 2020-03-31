@@ -176,3 +176,33 @@ h2 {
 .place {
     margin: 0 0 1em 1%;
 }
+
+
+/**
+ * CV
+ */
+table.two-columns-table {
+    border-collapse: collapse;
+    width          : 98%;
+    margin         : 0 1%;
+
+    th,
+    td {
+        padding      : 0 1em;
+        text-align   : left;
+        border-bottom: 1px solid $brand-color;
+    }
+
+    th {
+        color: $main-color;
+    }
+
+    td:first-child {
+        font-weight: bold;
+        width      : 30%;
+    }
+
+    tr:hover {
+        background-color: $brand-color-light;
+    }
+}
