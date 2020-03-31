@@ -184,7 +184,7 @@ h2 {
 table.two-columns-table {
     border-collapse: collapse;
     width          : 98%;
-    margin         : 0 1%;
+    margin         : 0 1% $spacing-unit;
 
     th,
     td {
