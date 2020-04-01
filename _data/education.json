@@ -14,5 +14,162 @@
             "period": "2002 – 2006",
             "place": "São Bernardo do Campo, SP - Brazil."
         }
+    ],
+    "technical": [
+        {
+            "name": "Jekyll - Static Site Generator",
+            "institution": "Mike Dane",
+            "period": "2020"
+        },
+        {
+            "name": "Docker and Kubernetes: The Big Picture",
+            "institution": "Pluralsight",
+            "period": "2020"
+        },
+        {
+            "name": "Introduction to Spring Cloud Contract",
+            "institution": "Pluralsight",
+            "period": "2020"
+        },
+        {
+            "name": "Introduction to Cypress",
+            "institution": "Test Automation University",
+            "period": "2019"
+        },
+        {
+            "name": "Effective Automated Testing with Spring",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "Spring Framework: Spring Fundamentals",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "Spring: The Big Picture",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "The MERN Stack – A React CRUD Application From Start To Finish",
+            "institution": "CodingTheSmartWay",
+            "period": "2019"
+        },
+        {
+            "name": "React: Getting Started",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "Styling React Components",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "RESTful Web Services with Node.js and Express",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "AWS Developer: The Big Picture",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "Modern Java: The Big Picture",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "Java EE: The Big Picture",
+            "institution": "Pluralsight",
+            "period": "2019"
+        },
+        {
+            "name": "CukenFest London - A BDD Conference",
+            "institution": "cukenfest.cucumber.io",
+            "period": "2018"
+        },
+        {
+            "name": "BDD with Cucumber and Serenity BDD",
+            "institution": "SerenityDojo",
+            "period": "2018"
+        },
+        {
+            "name": "Professional Java Development Skills for Testers",
+            "institution": "SerenityDojo",
+            "period": "2018"
+        },
+        {
+            "name": "Scaled Agile Framework (SAFe) for Teams (certified SAFe® 4 Practitioner)",
+            "institution": "Scale Agile, Inc.",
+            "period": "2017"
+        },
+        {
+            "name": "Protractor: End to End testing framework for AngularJS Apps",
+            "institution": "Way2Automation",
+            "period": "2017"
+        },
+        {
+            "name": "Test Automation with Appium, Cucumber and Ruby",
+            "institution": "Udemy",
+            "period": "2017"
+        },
+        {
+            "name": "The Complete JavaScript Course: Build a Real-World Project",
+            "institution": "Udemy",
+            "period": "2017"
+        },
+        {
+            "name": "JavaScript: Understanding the Weird Parts",
+            "institution": "Udemy",
+            "period": "2017"
+        },
+        {
+            "name": "Understanding TypeScript",
+            "institution": "Udemy",
+            "period": "2017"
+        },
+        {
+            "name": "Mockito Tutorial : Learn mocking with 25 Junit Examples",
+            "institution": "in28Minutes",
+            "period": "2017"
+        },
+        {
+            "name": "Master Jenkins Course For Developers and DevOps",
+            "institution": "Udemy",
+            "period": "2016"
+        },
+        {
+            "name": "Docker Technologies for DevOps and Developers",
+            "institution": "Udemy",
+            "period": "2016"
+        },
+        {
+            "name": "Selenium WebDriver With Java - Novice To Ninja",
+            "institution": "Lets Kode It",
+            "period": "2016"
+        },
+        {
+            "name": "Presentation Skills: Create Killer Presentations to WoW",
+            "institution": "Udemy",
+            "period": "2016"
+        },
+        {
+            "name": "Behavior Driven development with JBehave",
+            "institution": "Wipro",
+            "period": "2015"
+        },
+        {
+            "name": "Front End Test Automation",
+            "institution": "Wipro",
+            "period": "2015"
+        },
+        {
+            "name": "Core Java for Testers",
+            "institution": "Wipro",
+            "period": "2015"
+        }
     ]
 }

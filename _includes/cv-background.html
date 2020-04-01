@@ -7,12 +7,24 @@
             <th>Education</th>
             <th></th>
         </tr>
-
         {% for academic-course in education.academic %}
             <tr>
                 <td>{{ academic-course.period }}</td>
                 <td>{{ academic-course.level }} in {{ academic-course.name }}<br>
-                    {{ academic-course.institution }}</td>
+                    <i>{{ academic-course.institution }}</i></td>
+            </tr>
+        {% endfor %}
+    </table>
+
+    <table class="two-columns-table">
+        <tr>
+            <th>Courses/seminars</th>
+            <th></th>
+        </tr>
+        {% for technical-course in education.technical %}
+            <tr>
+                <td>{{ technical-course.period }}</td>
+                <td>{{ technical-course.name }} – {{ technical-course.institution }}</td>
             </tr>
         {% endfor %}
     </table>
