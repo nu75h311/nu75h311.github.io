@@ -7,14 +7,16 @@
             <h3>{{ skill-cat[0] }}</h3>
             <ul class="skill-list">
                 {% for skill in skill-cat[1] %}
-                <li>
-                    <div class="skill-box">
-                        <div class="skill-name">{{ skill.name }}</div>
-                        <div class="skill-container">
-                            <div class="skill" style="width: {{ skill.score }};"></div>
-                        </div>
-                    </div>
-                </li>
+                    {% if skill.score > 50 %}
+                        <li>
+                            <div class="skill-box">
+                                <div class="skill-name">{{ skill.name }}</div>
+                                <div class="skill-container">
+                                    <div class="skill" style="width: {{ skill.score }}%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>

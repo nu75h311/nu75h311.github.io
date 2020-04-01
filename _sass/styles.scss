@@ -122,9 +122,10 @@ h2 {
 }
 
 .skill-name {
-    font-size: $small-font-size;
-    float    : left;
-    width    : 53%;
+    font-size     : $small-font-size;
+    text-transform: uppercase;
+    float         : left;
+    width         : 53%;
 }
 
 .skill-container {

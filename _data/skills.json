@@ -1,124 +1,162 @@
 {
     "PROCESSES": [
         {
-            "name": "TEST MANAGEMENT",
-            "score": "100%"
+            "name": "Test Management",
+            "score": 100
         },
         {
-            "name": "TEST AUTOMATION",
-            "score": "90%"
+            "name": "Test Strategy",
+            "score": 100
         },
         {
-            "name": "DEFECT LIFECYCLE",
-            "score": "100%"
+            "name": "Test Automation",
+            "score": 90
+        },
+        {
+            "name": "Defect Lifecycle",
+            "score": 100
         },
         {
             "name": "BDD",
-            "score": "100%"
+            "score": 100
         },
         {
-            "name": "BUSINESS ANALYSIS",
-            "score": "80%"
+            "name": "Business Analysis",
+            "score": 80
         },
         {
-            "name": "AGILE",
-            "score": "90%"
+            "name": "Agile",
+            "score": 90
         },
         {
-            "name": "SCRUM",
-            "score": "90%"
+            "name": "Scrum",
+            "score": 90
+        },
+        {
+            "name": "Waterfall",
+            "score": 100
+        }
+    ],
+    "LANGUAGES": [
+        {
+            "name": "Java",
+            "score": 80
+        },
+        {
+            "name": "JavaScript",
+            "score": 60
+        },
+        {
+            "name": "Python",
+            "score": 40
         }
     ],
     "TOOLS": [
         {
-            "name": "JAVA",
-            "score": "80%"
+            "name": "Selenium",
+            "score": 90
         },
         {
-            "name": "JAVASCRIPT",
-            "score": "60%"
+            "name": "Protractor",
+            "score": 50
         },
         {
-            "name": "SELENIUM",
-            "score": "90%"
+            "name": "Cypress",
+            "score": 70
         },
         {
-            "name": "PROTRACTOR",
-            "score": "70%"
+            "name": "TestFX",
+            "score": 80
         },
         {
-            "name": "TESTFX",
-            "score": "80%"
+            "name": "Appium",
+            "score": 20
         },
         {
-            "name": "SERENITY-BDD",
-            "score": "100%"
+            "name": "Serenity-BDD",
+            "score": 100
         },
         {
-            "name": "CUCUMBER",
-            "score": "100%"
+            "name": "Cucumber",
+            "score": 100
         },
         {
-            "name": "ALM / JIRA",
-            "score": "90%"
+            "name": "JUnit",
+            "score": 80
         },
         {
-            "name": "REST ASSURED",
-            "score": "80%"
+            "name": "Jasmine",
+            "score": 50
         },
         {
-            "name": "SPRING CLOUD CONTRACT",
-            "score": "60%"
+            "name": "ALM / Jira",
+            "score": 90
+        },
+        {
+            "name": "RestAssured",
+            "score": 80
+        },
+        {
+            "name": "Spring Cloud Contract",
+            "score": 60
         },
         {
             "name": "GIT",
-            "score": "70%"
+            "score": 70
         },
         {
-            "name": "JENKINS",
-            "score": "70%"
+            "name": "Maven",
+            "score": 80
         },
         {
-            "name": "MONGODB",
-            "score": "40%"
+            "name": "npm",
+            "score": 50
         },
         {
-            "name": "EXPRESS",
-            "score": "30%"
+            "name": "Jenkins",
+            "score": 70
         },
         {
-            "name": "REACT",
-            "score": "30%"
+            "name": "MongoDB",
+            "score": 40
+        },
+        {
+            "name": "Express",
+            "score": 30
+        },
+        {
+            "name": "React",
+            "score": 30
         }
     ],
     "PERSONAL": [
         {
-            "name": "TEAMWORK",
-            "score": "100%"
+            "name": "Teamwork",
+            "score": 100
         },
         {
-            "name": "COMMUNICATION",
-            "score": "100%"
+            "name": "Communication",
+            "score": 100
         },
         {
-            "name": "MENTORING",
-            "score": "100%"
+            "name": "Mentoring",
+            "score": 100
         },
         {
-            "name": "SELF-LEARNER",
-            "score": "90%"
+            "name": "Self-learner",
+            "score": 90
         },
         {
-            "name": "ADAPTABILITY",
-            "score": "100%"
+            "name": "Adaptability",
+            "score": 100
         },
         {
-            "name": "LEADERSHIP",
-            "score": "80%"
+            "name": "Leadership",
+            "score": 80
         },
         {
-            "name": "ORGANIZATION",
-            "score": "100%"
+            "name": "Organization",
+            "score": 100
         }
     ]
 }
