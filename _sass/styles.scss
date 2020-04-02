@@ -193,6 +193,11 @@ table.r-50-50-columns-table {
         padding      : 0 1em;
         text-align   : left;
         border-bottom: 1px solid $brand-color;
+
+        ul {
+            list-style-type: square;
+            margin         : 0 0 0 1.5em;
+        }
     }
 
     th {
@@ -206,8 +211,9 @@ table.r-50-50-columns-table {
 
 table.r-25-75-columns-table {
     td:first-child {
-        font-weight: bold;
-        width      : 25%;
+        vertical-align: top;
+        font-weight   : bold;
+        width         : 25%;
     }
 }
 
