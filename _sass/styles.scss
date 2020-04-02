@@ -182,7 +182,8 @@ h2 {
 /**
  * CV
  */
-table.two-columns-table {
+table.r-25-75-columns-table,
+table.r-50-50-columns-table {
     border-collapse: collapse;
     width          : 98%;
     margin         : 0 1% $spacing-unit;
@@ -198,12 +199,20 @@ table.two-columns-table {
         color: $main-color;
     }
 
+    tr:hover {
+        background-color: $brand-color-light;
+    }
+}
+
+table.r-25-75-columns-table {
     td:first-child {
         font-weight: bold;
         width      : 25%;
     }
+}
 
-    tr:hover {
-        background-color: $brand-color-light;
+table.r-50-50-columns-table {
+    td:first-child {
+        width: 50%;
     }
 }

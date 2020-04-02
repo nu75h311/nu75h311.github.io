@@ -2,131 +2,167 @@
     "PROCESSES": [
         {
             "name": "Test Management",
-            "score": 100
+            "score": 100,
+            "experience": 10
         },
         {
             "name": "Test Strategy",
-            "score": 100
+            "score": 100,
+            "experience": 10
         },
         {
             "name": "Test Automation",
-            "score": 90
+            "score": 90,
+            "experience": 5
         },
         {
             "name": "Defect Lifecycle",
-            "score": 100
+            "score": 100,
+            "experience": 14
         },
         {
             "name": "BDD",
-            "score": 100
+            "score": 100,
+            "experience": 6
         },
         {
             "name": "Business Analysis",
-            "score": 80
+            "score": 80,
+            "experience": 4
         },
         {
             "name": "Agile",
-            "score": 90
+            "score": 90,
+            "experience": 8
         },
         {
             "name": "Scrum",
-            "score": 90
+            "score": 90,
+            "experience": 6
         },
         {
             "name": "Waterfall",
-            "score": 100
+            "score": 100,
+            "experience": 8
         }
     ],
     "LANGUAGES": [
         {
             "name": "Java",
-            "score": 80
+            "score": 80,
+            "experience": 6
         },
         {
             "name": "JavaScript",
-            "score": 60
+            "score": 60,
+            "experience": 3
+        },
+        {
+            "name": "C#",
+            "score": 40,
+            "experience": 2
         },
         {
             "name": "Python",
-            "score": 40
+            "score": 40,
+            "experience": 1
         }
     ],
     "TOOLS": [
         {
             "name": "Selenium",
-            "score": 90
+            "score": 90,
+            "experience": 5
         },
         {
             "name": "Protractor",
-            "score": 50
+            "score": 50,
+            "experience": 1
         },
         {
             "name": "Cypress",
-            "score": 70
+            "score": 70,
+            "experience": 1
         },
         {
             "name": "TestFX",
-            "score": 80
+            "score": 80,
+            "experience": 2
         },
         {
             "name": "Appium",
-            "score": 20
+            "score": 20,
+            "experience": 1
         },
         {
             "name": "Serenity-BDD",
-            "score": 100
+            "score": 100,
+            "experience": 4
         },
         {
             "name": "Cucumber",
-            "score": 100
+            "score": 100,
+            "experience": 4
         },
         {
             "name": "JUnit",
-            "score": 80
+            "score": 80,
+            "experience": 5
         },
         {
             "name": "Jasmine",
-            "score": 50
+            "score": 50,
+            "experience": 2
         },
         {
             "name": "ALM / Jira",
-            "score": 90
+            "score": 90,
+            "experience": 12
         },
         {
             "name": "RestAssured",
-            "score": 80
+            "score": 80,
+            "experience": 2
         },
         {
             "name": "Spring Cloud Contract",
-            "score": 60
+            "score": 60,
+            "experience": 1
         },
         {
             "name": "GIT",
-            "score": 70
+            "score": 70,
+            "experience": 4
         },
         {
             "name": "Maven",
-            "score": 80
+            "score": 80,
+            "experience": 5
         },
         {
             "name": "npm",
-            "score": 50
+            "score": 50,
+            "experience": 2
         },
         {
             "name": "Jenkins",
-            "score": 70
+            "score": 70,
+            "experience": 3
         },
         {
             "name": "MongoDB",
-            "score": 40
+            "score": 40,
+            "experience": 1
         },
         {
             "name": "Express",
-            "score": 30
+            "score": 30,
+            "experience": 1
         },
         {
             "name": "React",
-            "score": 30
+            "score": 30,
+            "experience": 1
         }
     ],
     "PERSONAL": [
