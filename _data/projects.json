@@ -1,0 +1,32 @@
+[
+    {
+        "role": "Quality Assurance Technical Specialist",
+        "name": "Wipro – Tech Specialists Initiative",
+        "period": "Apr/2016 – Aug/2017",
+        "summary": [
+            "I am part of a selected group of professionals who are considered to be the most knowledgeable about their respective area (e.g. Software Development, Project Management and, in my case, Quality Assurance) inside Wipro’s Mastercard account.",
+            "This team was put together with the intent of identifying any areas of process improvement or knowledge gaps within the whole account, then come up with a plan for upscaling overall quality of client delivery. The action plans can range from providing coaching and training to side projects of applications that automate repetitive managerial tasks."
+        ],
+        "situation": [
+            "The first year focused on a survey to be answered by all employees in the Wipro-Mastercard account that pointed any pain points and area of improvements based on the participants’ role in their projects. In 2017 the focus has been on the creation of an online tool to help control overtime hours for the employees working from home. The Tech Specialists team currently has 6 members."
+        ],
+        "task": [
+            "My role in this initiative is make sure that not only Testers have a good understanding of Software Quality Assurance processes and methods, but also have Team Leads and Developers aware of the importance and dependencies of QA as a whole (big picture).",
+            "In the more recent overtime control app project, I have assumed the role of a Business Analyst, making sure the understanding of what is required of the system to be and what will actually be delivered are beautifully matching."
+        ],
+        "activities": [
+            "Conducted weekly meetings with all Testers to check their technical needs.",
+            "Provided coaching and trainings on Test Design Techniques, Testing Frameworks for Agile and Test Best Practices and Mindset.",
+            "Interviewed candidates for Testing roles at Wipro.",
+            "Created a tool to assess (Test and Dev) candidates competency in a quantitative manner.",
+            "Coached a backup Tech Specialist for QA.",
+            "Put together documentation on environment configuration for Test Automation directed to non-developers, so Testers could start practicing automation on their own or at home."
+        ],
+        "results": [
+            "Suggestions provided to the Testing Team brought performance and overall quality improvement in delivery and satisfaction from both clients and Wipro Testers.",
+            "The transition from Manual Tester to Automated Test Engineer transition of the Testing Team was smoother due to my efforts in recognizing that their biggest difficulty was not coding languages, but all the necessary setups that come with it.",
+            "Greatly reduction of time spent on hiring new employees with the competency assessment tool."
+        ],
+        "technologies": "Java, Eclipse, Maven, Selenium, JBehave, JUnit, Rally (ALM)."
+    }
+]
