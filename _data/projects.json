@@ -1,5 +1,67 @@
 [
     {
+        "role": "Test Engineer",
+        "name": "ASML – LithoInsight Alignment",
+        "period": "Dec/2017 – present",
+        "summary": [
+            "Besides the lithography machines, ASML also provides software products for analysis of reserch and development data. One of these applications is a monolith with many tools that help evaluate microchip architecture strategies and provide improvement suggestions through mathematical simulations."
+        ],
+        "situation": [
+            "Every tool within the monolith application is produced and maintained by different teams. Most of these teams struggled with testing strategies, coverage, time of execution and having too many manual regression tests every sprint.",
+            "One of the teams was starting a new tool from scratch with a different approach in software architecture and after convincing their manager, some budget was allocated to hire a dedicated Tester."
+        ],
+        "task": [
+            "The main direct requests for this project were to alleviate the load of manual regression tests being executed by the business analysts, and to come up with a strategy for test coverage on the software side.",
+            "After the initial intake, I realized the actual task at hand was to improve the way requirements were defined and understood."
+        ],
+        "activities": [
+            "Implement the test automation framework following the reference architecture.",
+            "Write automated functional tests.",
+            "Automate test reports to serve both business and development people.",
+            "Coach the team into BDD practices.",
+            "Research alternative approaches to testing with new technologies.",
+            "Conduct technical interviews for hires in other teams.",
+            "Help with defining a test approach for a technology shift to micro-services."
+        ],
+        "results": [
+            "Test strategy implementation for multiple teams, defining the functional level test automation framework.",
+            "Shaping the way requirements are understood with 3-amigos sessions to indentify executable specification",
+            "Production of living documentation that incorporates requirements, test plans and test results."
+        ],
+        "technologies": "Java, Maven, JavaFX, TestFX, Cucumber, Serenity-BDD, JavaScript, npm, React, Cypress, Spring Cloud Contract, RestAssured, Python, RobotFramework."
+    },
+    {
+        "role": "Testing Chapter Lead",
+        "name": "WAES – Organizational Structuring",
+        "period": "Oct/2018 – Aug/2019",
+        "summary": [
+            "A representative of each technical stack was chosen among the company's consultants to become the point of contact in regards to employee satisfaction, budget approvals and client management."
+        ],
+        "situation": [
+            "WAES had been growing at an increasing rate since the first part of 2018, and internally there was no organizational structure (managing all the consultants was being done by the same person). Tasks like getting feedback from consultants and clients, setting expectations and tracking achievements were disconnected.",
+            "Although the growth of the number of Testers was stationary, management decided to roughly divide the consultants into chapters by technology stack (Java, .Net, Testing and Front-end), making the Testing chapter the smallest of all."
+        ],
+        "task": [
+            "As the a Chapter Lead, the responsibilities were to maintain a warm, happy and knowledgeable chapter, assist the personal growth of chapter members, provide technical support for the sales team and specially hiring support for the recruitment team.",
+            "For this role the Chapter Leaders would have to dedicate 20% of their time while maintaining 80% allocation in the client."
+        ],
+        "activities": [
+            "Conducted monthly meetings with each chapter member for updates and follow ups.",
+            "Review and approve study budget usage by chapter members.",
+            "Worked closely with the recruitment team to come up with a workflow that would serve the technical evaluation of new candidates.",
+            "Conducted technical interviews of Testing domain candidates for hiring.",
+            "Trained new technical interviewers.",
+            "Help prepare newly hired Testers for clients' selection processes.",
+            "Worked with the sales team to go through client feedback together with chapter members."
+        ],
+        "results": [
+            "A completely revamped technical assignment that is sent to Tester candidates.",
+            "Creation of an application to scale the review of technical assignments (so that every chapter member could provide a baselined assessment of the work that hiring candidates delivered).",
+            "Acceleration of the Testers hiring growth to match clients demands in number and quality."
+        ],
+        "technologies": "Java, JavaScript, Maven, npm, React, Gatsby, Selenium, RestAssured."
+    },
+    {
         "role": "Quality Assurance Technical Specialist",
         "name": "Wipro – Tech Specialists Initiative",
         "period": "Apr/2016 – Aug/2017",
