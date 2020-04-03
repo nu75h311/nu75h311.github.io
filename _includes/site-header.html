@@ -7,7 +7,13 @@
 
       <li {% if page.url == "/" %} class="active" {% endif %}><a href="/">Resume</a></li>
       <li {% if page.url == "/cv/" %} class="active" {% endif %}><a href="/cv">CV</a></li>
-      <li class="pdf-button"><a href="/assets/pdfs/{{ pdfs.resume }}" target="_blank">PDF version</a></li>
+      <li class="pdf-button"><a
+        {% if page.url == "/" %}
+          href="/assets/pdfs/{{ pdfs.resume }}"
+        {% elsif page.url == "/cv/" %}
+          href="/assets/pdfs/{{ pdfs.cv }}"
+        {% endif %}
+          target="_blank">PDF version</a></li>
 
     </ul>
   </div>
