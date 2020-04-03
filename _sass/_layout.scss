@@ -4,6 +4,15 @@
   .no-print * {
     display: none !important;
   }
+
+  .r-25-75-columns-table,
+  .r-50-50-columns-table {
+    page-break-inside: avoid;
+  }
+
+  .projects-section {
+    page-break-before: always;
+  }
 }
 
 
@@ -87,16 +96,16 @@
 }
 
 .footer-col-wrapper {
-    display: table;
-    width  : 100%;
-    margin : 0;
-    color  : $brand-color;
+  display: table;
+  width  : 100%;
+  margin : 0;
+  color  : $brand-color;
 
-    li {
-        display   : table-cell;
-        width     : 50%;
-        text-align: center;
-    }
+  li {
+    display   : table-cell;
+    width     : 50%;
+    text-align: center;
+  }
 }
 
 
