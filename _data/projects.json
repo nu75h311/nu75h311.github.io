@@ -4,15 +4,15 @@
         "name": "Wipro – Tech Specialists Initiative",
         "period": "Apr/2016 – Aug/2017",
         "summary": [
-            "I am part of a selected group of professionals who are considered to be the most knowledgeable about their respective area (e.g. Software Development, Project Management and, in my case, Quality Assurance) inside Wipro’s Mastercard account.",
-            "This team was put together with the intent of identifying any areas of process improvement or knowledge gaps within the whole account, then come up with a plan for upscaling overall quality of client delivery. The action plans can range from providing coaching and training to side projects of applications that automate repetitive managerial tasks."
+            "I was part of a selected group of professionals who were considered to be the most knowledgeable about their respective area (e.g. Software Development, Project Management and, in my case, Quality Assurance) inside Wipro’s Mastercard account.",
+            "This team was put together with the intent of identifying any areas of process improvement or knowledge gaps within the whole account, then come up with a plan for upscaling overall quality of client delivery. The action plans could range from providing coaching and training to side projects of applications that automate repetitive managerial tasks."
         ],
         "situation": [
-            "The first year focused on a survey to be answered by all employees in the Wipro-Mastercard account that pointed any pain points and area of improvements based on the participants’ role in their projects. In 2017 the focus has been on the creation of an online tool to help control overtime hours for the employees working from home. The Tech Specialists team currently has 6 members."
+            "The first year focused on a survey to be answered by all employees in the Wipro-Mastercard account that pointed any pain points and area of improvements based on the participants’ role in their projects. In 2017 the focus had been on the creation of an online tool to help control overtime hours for the employees working from home. The Tech Specialists team had 6 members at the time."
         ],
         "task": [
-            "My role in this initiative is make sure that not only Testers have a good understanding of Software Quality Assurance processes and methods, but also have Team Leads and Developers aware of the importance and dependencies of QA as a whole (big picture).",
-            "In the more recent overtime control app project, I have assumed the role of a Business Analyst, making sure the understanding of what is required of the system to be and what will actually be delivered are beautifully matching."
+            "My role in this initiative was to make sure that not only Testers have a good understanding of Software Quality Assurance processes and methods, but also have Team Leads and Developers aware of the importance and dependencies of QA as a whole (big picture).",
+            "In the overtime control app project, I had assumed the role of a Business Analyst, making sure the understanding of what is required of the system to be and what will actually be delivered are beautifully matching."
         ],
         "activities": [
             "Conducted weekly meetings with all Testers to check their technical needs.",
@@ -24,9 +24,200 @@
         ],
         "results": [
             "Suggestions provided to the Testing Team brought performance and overall quality improvement in delivery and satisfaction from both clients and Wipro Testers.",
-            "The transition from Manual Tester to Automated Test Engineer transition of the Testing Team was smoother due to my efforts in recognizing that their biggest difficulty was not coding languages, but all the necessary setups that come with it.",
+            "The transition from Manual Tester to Automated Test Engineer of the Testing Team was smoother due to my efforts in recognizing that their biggest difficulty was not coding languages, but all the necessary setups that come with it.",
             "Greatly reduction of time spent on hiring new employees with the competency assessment tool."
         ],
         "technologies": "Java, Eclipse, Maven, Selenium, JBehave, JUnit, Rally (ALM)."
+    },
+    {
+        "role": "Senior Test Engineer",
+        "name": "Mastercard – Reward Solutions",
+        "period": "May/2016 – Aug/2017",
+        "summary": [
+            "Mastercard has many loyalty programs to help banks and business acquire, retain and grow customer numbers. Available solutions range from point-based and cash back products to household-cardholder relationship management.",
+            "While on this project, the team was transitioning from one big waterfall-type group to 2-3 smaller agile-based teams. My previous experience with Agile helped guide the team on both Testing and general Development best practices."
+        ],
+        "situation": [
+            "With a growing number of members and programs using Mastercard solutions, the need for improvement in batch processing performance and new ways for customers to enroll have become mandatory."
+        ],
+        "task": [
+            "As a Senior Test Engineer, I was responsible for scripting automated tests in the regression suite to ensure all modifications in front-end and back-end did not compromise main functionalities and extract test scenarios out of new change requirements."
+        ],
+        "activities": [
+            "Used Maven Java projects to code automated tests with Selenium webdriver and JBehave tor user-based test design.",
+            "Created and executed regression tests for batch performance enhancement changes, including test data analysis and preparation (mostly Bash and SQL).",
+            "Created and executed Acceptance Criteria for the stories of a new Customizable Enrollment Widget application using Rally as Agile board and ALM.",
+            "Coach Junior and Senior team members on Agile practices, while suggesting the best approach depending on the project needs."
+        ],
+        "results": [
+            "A comprehensive suite of automated regression tests that generate live reports in business readable presentation.",
+            "Ensured quality and consistency of data out of the improved batch processes.",
+            "Reduced time within iterations in creating and validating Test Scenarios as Acceptance Criteria that are concise, comprehensive and reusable."
+        ],
+        "technologies": "Java, Eclipse, Maven, Selenium, JBehave, Junit, SVN, Bash, SQL, Page Objects, Rally(ALM), Scrum, Kanban"
+    },
+    {
+        "role": "Senior Test Engineer",
+        "name": "Mastercard – Nomos",
+        "period": "Aug/2015 – May/2016",
+        "summary": [
+            "Nomos was a Mastercard internal prototype project to automate the deployment of all applications to every high level environment (System Integration Testing, Pre-Production and Production).",
+            "A small team was put together to take this project which consisted of a front-end AngularJS application managing and monitoring backend scripts running in Linux servers using REST API."
+        ],
+        "situation": [
+            "Every deployment from any Mastercard project required extensive planning and long hours including exploratory and sanity testing, especially when deploying into production."
+        ],
+        "task": [
+            "As a Senior Test Engineer, I was responsible for scripting automated end-user tests for the front-end Nomos application, as well as identifying and executing test scenarios for all black-box functionalities."
+        ],
+        "activities": [
+            "Used JavaScript projects to code automated tests with Protractor framework (end-to-end testing for AngularJS) and Jasmine.",
+            "Configured live reports to be generated after each automated test suite run.",
+            "Created and executed new test scenarios for the Nomos application in development."
+        ],
+        "results": [
+            "Mastercard’s first suite of automated tests in JavaScript (Protractor) for an AngularJS application that generates live reports.",
+            "A tool that greatly reduced time and cost of any deployment within Mastercard IT.",
+            "ALM tool configured for the project from ground up."
+        ],
+        "technologies": "JavaScript, Protractor, Jasmine, Selenium, SVN, Bash, Page Objects, REST, Rally (ALM), Scrum."
+    },
+    {
+        "role": "Senior Test Engineer",
+        "name": "Mastercard – In Control",
+        "period": "Sep/2014 – Aug/2015",
+        "summary": [
+            "Mastercard In Control provides a way for card issuers and cardholders to manage expenses, generate reports and create virtual cards. Every issuer and bank around the globe can have their own customized portal for Mastercard In Control.",
+            "This project’s team was comprised by members from US, Ireland, Brazil and Malaysia; and featured multiple applications running in different servers for the backend and many more configurable front-end URLs."
+        ],
+        "situation": [
+            "For every new bank or card issuer program that made In Control available for its clients would have its own portal with different optional features. When new business rules included new or affected old features, extensive validations were required."
+        ],
+        "task": [
+            "As a Senior Test Engineer, I was responsible for identifying test scenarios based on change requirements of business rules and for setting up new test environments when necessary. I also led an automation effort for all tests that were common in any variation of the programs."
+        ],
+        "activities": [
+            "Created and executed test scenarios to validate business changes, including test data analysis and preparation.",
+            "Set up environments for testing using Apache Tomcat, IBM WebSphere and Red Hat JBoss.",
+            "Used Maven Java projects to code automated tests with Selenium webdriver and JBehave tor user-based test design."
+        ],
+        "results": [
+            "Kicked off the first automated test suite of the long running In Control project.",
+            "Seamless coordination of testing efforts among teams from different locations and time zones.",
+            "Well mentored new team members on the project practices and business.",
+            "Mastercard High Five Award for commitment and quality of service."
+        ],
+        "technologies": "Java, Eclipse, Maven, Selenium, JBehave, Junit, Tomcat, WebSphere, JBoss, Page Objects, Rally (ALM), Scrum, Kanban."
+    },
+    {
+        "role": "Test Lead",
+        "name": "Global Village Telecom – Products Customization",
+        "period": "Jan/2013 – Sep/2014",
+        "summary": [
+            "GVT is a company that offers high-speed broadband across its area of operation, paid TV with high-definition channels, as well as integrated and convergent advanced landline telephony.",
+            "TV services became available later in the roster of products, so most projects at the time were focused on adapting legacy systems to accommodate the new range of services and combination of products."
+        ],
+        "situation": [
+            "New products, combos and promotions were set up and configured via one single application, the project I worked on had to include these items into the application and make them customizable."
+        ],
+        "task": [
+            "As a Test Lead, I was responsible for identifying test scenarios based on requirements, setting up test data and coordinating test execution with an onsite testing team."
+        ],
+        "activities": [
+            "Created and executed test scenarios (HP Quality Center) to validate business requirements, including test data analysis and preparation (SQL).",
+            "Generate Daily Test Status reports and manage physical boards for upper management.",
+            "Define Test Plans and Strategy based on project needs, staff and schedule.",
+            "Set up test environments that simulated real world telecommunications hardware.",
+            "Managed test execution and defect reporting and lifecycle.",
+            "Defined Testing Frameworks based on experience that helped elevate the whole QA area’s understanding of processes and testing artifacts."
+        ],
+        "results": [
+            "Created and standardized a tool to generate test execution daily reports for all active projects.",
+            "Led the definition of a Quality Assurance framework for testing teams.",
+            "Partially automated the setup of test environments reducing a 4 hours effort to 20 minutes."
+        ],
+        "technologies": "HP Quality Center (ALM), MS Excel, SQL (Toad), REST (SoapUI), Scrum, Waterfall."
+    },
+    {
+        "role": "Quality Assurance Consultant",
+        "name": "JMalucelli Seguradora – Business Insurance Products",
+        "period": "Nov/2011 – Oct/2012",
+        "summary": [
+            "JMalucelli Seguradora is a Brazilian insurance company associated with American company Travelers since 2010 that operates exclusively with warranty insurance. Among its products, some offered are: Civil Liability, Patrimonial Insurance, Engineering Risks and Financial Lines."
+        ],
+        "situation": [
+            "The change from family company to newly established joint venture with insurance giant Travelers required adoption of market grade processes and methodologies. Travelers suggested a partnership with Cognizant for hiring local senior IT consultants on servers’ management and overall Quality Assurance.",
+            "When I joined the project there was no QA team nor processes in place."
+        ],
+        "task": [
+            "As a QA Consultant, I was responsible for acting on all inexistent QA fronts, helping the transition from small family company to big corporation mindset."
+        ],
+        "activities": [
+            "Identified the best approach for QA efforts while not having dedicated professionals for the area.",
+            "Acted partly as Business Analyst filling the gap between the client with its needed product and rules and the Development team, mostly by having both sides understand what would be tested to cover all functionalities.",
+            "Generate Daily Test Status reports for upper management",
+            "Managed smaller side projects as necessary."
+        ],
+        "results": [
+            "Built the QA process of the company from ground up with no ALM tools.",
+            "Created mock applications based on business requirements for the Development team to have more broken down functionalities and business rules to work on.",
+            "An application with high usability whilst having very intricate and complex rules and many case-by-case exceptions."
+        ],
+        "technologies": "MS Excel, SQL (Toad), REST (SoapUI), Scrum, Waterfall."
+    },
+    {
+        "role": "Project Test Coordinator",
+        "name": "HSBC - Global Technology – Card Act adaptation",
+        "period": "Sep/2009 – Nov/2011",
+        "summary": [
+            "Global Technology is the IT branch of HSBC, having projects and teams distributed all over the globe. At this period the US market was coming back from the 2008 crisis, and some federal rules (Credit Card Accountability Responsibility and Disclosure Act) were put in place to prevent the issue from rising again."
+        ],
+        "situation": [
+            "The new CARD Act made credit card users protected from retroactive interest rate increases on existing card balances and have more time to pay their monthly bills, greater advance notice of changes in credit card terms and the right to opt out of significant changes in terms on their accounts.",
+            "I have participated in projects related to two major rules: Limited credit to young adults and Subprime cards rules set."
+        ],
+        "task": [
+            "As a Project Test Coordinator, I was responsible for reviewing business requirements and extracting test scenarios, manage test case creation and execution of an offshore testing team. Also, with a fast growing QA team in the Brazil branch, I put together trainings and presentations to all new comers."
+        ],
+        "activities": [
+            "Produced Test Plans, Test Strategies and extracted Test Scenarios out of business requirements.",
+            "Validated and reviewed Test Cases with Developers and Business teams to make sure the understanding is common among all members.",
+            "Risk-based prioritization of Test modules.",
+            "Generate detailed Daily Test Status reports.",
+            "Conducted daily Defect Management meetings with teams from various locations.",
+            "Metrics and effort planning and control.",
+            "Provided trainings for new members of the Testing team."
+        ],
+        "results": [
+            "A comprehensive test suite for all new very complex business rules to be applied to the credit card systems.",
+            "HSBC Global Technology RISE (Recognition of Individual Superior Effort) Award for training and capacitation of junior members."
+        ],
+        "technologies": "HP Quality Center (ALM), MS Excel, REST (SoapUI), Waterfall, V-Model development strategy."
+    },
+    {
+        "role": "Test Analyst",
+        "name": "Electronic Data Systems – Commonwealth Bank of Australia Cards",
+        "period": "Apr/2005 – Mar/2008",
+        "summary": [
+            "EDS despite being a subsidiary of General Motors since the 1980s, had a wide range of industries for which it provided Information Technology services.",
+            "While in the company, I entered the Quality Assurance realm for the first time as a Test Analyst mainly due to my fluency in English (which was required since most of the projects were outsourced)."
+        ],
+        "situation": [
+            "The Commonwealth Bank of Australia had just strengthened its relationship with EDS going from hardware and processing provider to also include service oriented contracts. This aimed to deliver more efficient operations, significant service improvements and cost savings across the bank."
+        ],
+        "task": [
+            "As a Test Analyst, I was initially responsible for writing and executing Test Cases for credit card operation projects, opening defects and managing test evidences; and later for reviewing business requirements and extracting test scenarios."
+        ],
+        "activities": [
+            "Wrote and executed test cases in step-by-step model.",
+            "Opened defects and tracked their lifecycle throughout the project.",
+            "Provided evidence of execution and retests when required."
+        ],
+        "results": [
+            "Deep understanding of the importance and workflow of Testing activities.",
+            "Very detailed project documentation with no room for ambiguities.",
+            "Strong client satisfaction with applications’ quality delivered."
+        ],
+        "technologies": "HP Quality Center (ALM), MS Excel, Waterfall."
     }
 ]

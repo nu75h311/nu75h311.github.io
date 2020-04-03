@@ -201,7 +201,8 @@ table.r-50-50-columns-table {
     }
 
     th {
-        color: $main-color;
+        color         : $main-color;
+        vertical-align: top;
     }
 
     tr:hover {
