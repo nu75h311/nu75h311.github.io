@@ -17,73 +17,83 @@
     ],
     "technical": [
         {
+            "name": "Spring Framework: Creating Your First Spring Boot Application",
+            "institution": "Pluralsight – Dan Bunker",
+            "period": "2020"
+        },        
+        {
+            "name": "CukenFest Online - A BDD Conference",
+            "institution": "cukenfest.cucumber.io",
+            "period": "2020"
+        },
+        {
             "name": "Jekyll - Static Site Generator",
             "institution": "Mike Dane",
             "period": "2020"
         },
         {
             "name": "Docker and Kubernetes: The Big Picture",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Nigel Poulton",
             "period": "2020"
         },
         {
             "name": "Introduction to Spring Cloud Contract",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Andrew Morgan",
             "period": "2020"
         },
         {
             "name": "Introduction to Cypress",
-            "institution": "Test Automation University",
+            "institution": "Test Automation University – Gil Tayar",
             "period": "2019"
         },
         {
             "name": "Effective Automated Testing with Spring",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Billy Korando",
             "period": "2019"
         },
         {
             "name": "Spring Framework: Spring Fundamentals",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Bryan Hansen",
             "period": "2019"
         },
         {
             "name": "Spring: The Big Picture",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Dustin Schultz",
             "period": "2019"
         },
         {
             "name": "The MERN Stack – A React CRUD Application From Start To Finish",
-            "institution": "CodingTheSmartWay",
+            "institution": "CodingTheSmartWay – Sebastian Eschweiler",
             "period": "2019"
         },
         {
             "name": "React: Getting Started",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Samer Buna",
             "period": "2019"
         },
         {
             "name": "Styling React Components",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Jake Trent",
             "period": "2019"
         },
         {
             "name": "RESTful Web Services with Node.js and Express",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Jonathan Mills",
             "period": "2019"
         },
         {
             "name": "AWS Developer: The Big Picture",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Ryan Lewis",
             "period": "2019"
         },
         {
             "name": "Modern Java: The Big Picture",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Sander Mak",
             "period": "2019"
         },
         {
             "name": "Java EE: The Big Picture",
-            "institution": "Pluralsight",
+            "institution": "Pluralsight – Antonio Goncalves",
             "period": "2019"
         },
         {
@@ -93,52 +103,52 @@
         },
         {
             "name": "BDD with Cucumber and Serenity BDD",
-            "institution": "SerenityDojo",
+            "institution": "SerenityDojo – John Ferguson Smart",
             "period": "2018"
         },
         {
             "name": "Professional Java Development Skills for Testers",
-            "institution": "SerenityDojo",
+            "institution": "SerenityDojo – John Ferguson Smart",
             "period": "2018"
         },
         {
             "name": "Scaled Agile Framework (SAFe) for Teams (certified SAFe® 4 Practitioner)",
-            "institution": "Scale Agile, Inc.",
+            "institution": "Scaled Agile, Inc.",
             "period": "2017"
         },
         {
             "name": "Protractor: End to End testing framework for AngularJS Apps",
-            "institution": "Way2Automation",
+            "institution": "Udemy – Rahul Arora",
             "period": "2017"
         },
         {
             "name": "Test Automation with Appium, Cucumber and Ruby",
-            "institution": "Udemy",
+            "institution": "Udemy – Alex Petrovski",
             "period": "2017"
         },
         {
             "name": "The Complete JavaScript Course: Build a Real-World Project",
-            "institution": "Udemy",
+            "institution": "Udemy – Jonas Schmedtmann",
             "period": "2017"
         },
         {
             "name": "JavaScript: Understanding the Weird Parts",
-            "institution": "Udemy",
+            "institution": "Udemy – Anthony Alicea",
             "period": "2017"
         },
         {
             "name": "Understanding TypeScript",
-            "institution": "Udemy",
+            "institution": "Udemy – Maximilian Schwarzmüller",
             "period": "2017"
         },
         {
             "name": "Mockito Tutorial : Learn mocking with 25 Junit Examples",
-            "institution": "in28Minutes",
+            "institution": "Udemy – in28Minutes",
             "period": "2017"
         },
         {
             "name": "Master Jenkins Course For Developers and DevOps",
-            "institution": "Udemy",
+            "institution": "Udemy – Renju Ratheesh",
             "period": "2016"
         },
         {
@@ -148,27 +158,27 @@
         },
         {
             "name": "Selenium WebDriver With Java - Novice To Ninja",
-            "institution": "Lets Kode It",
+            "institution": "Udemy – Lets Kode It",
             "period": "2016"
         },
         {
             "name": "Presentation Skills: Create Killer Presentations to WoW",
-            "institution": "Udemy",
+            "institution": "Udemy – Jeff Tan",
             "period": "2016"
         },
         {
             "name": "Behavior Driven development with JBehave",
-            "institution": "Wipro",
+            "institution": "Wipro – Felipe Carvalho",
             "period": "2015"
         },
         {
             "name": "Front End Test Automation",
-            "institution": "Wipro",
+            "institution": "Wipro – Rodrigo Machado",
             "period": "2015"
         },
         {
             "name": "Core Java for Testers",
-            "institution": "Wipro",
+            "institution": "Wipro – Rodrigo Machado",
             "period": "2015"
         }
     ]
