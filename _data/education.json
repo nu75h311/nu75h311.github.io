@@ -17,6 +17,11 @@
     ],
     "technical": [
         {
+            "name": "Spring Integration: Getting Started",
+            "institution": "Pluralsight – Jesper De Jong",
+            "period": "2020"
+        },    
+        {
             "name": "Spring Framework: Creating Your First Spring Boot Application",
             "institution": "Pluralsight – Dan Bunker",
             "period": "2020"
