@@ -10,7 +10,8 @@
     page-break-inside: avoid;
   }
 
-  .projects-section {
+  .projects-section,
+  .knowledge-experience-section {
     page-break-before: always;
   }
 }
