@@ -17,6 +17,11 @@
     ],
     "technical": [
         {
+            "name": "Microsoft Azure: The Big Picture",
+            "institution": "Pluralsight – Matt Milner",
+            "period": "2020"
+        },    
+        {
             "name": "Spring Integration: Getting Started",
             "institution": "Pluralsight – Jesper De Jong",
             "period": "2020"
