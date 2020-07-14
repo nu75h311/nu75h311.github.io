@@ -17,6 +17,11 @@
     ],
     "technical": [
         {
+            "name": "Getting Started with Kubernetes",
+            "institution": "Pluralsight – Nigel Poulton",
+            "period": "2020"
+        },   
+        {
             "name": "Microsoft Azure Developer: Performing Load Testing",
             "institution": "Pluralsight – Mick Badran",
             "period": "2020"
