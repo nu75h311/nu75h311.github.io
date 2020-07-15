@@ -20,37 +20,42 @@
             "name": "Azure Kubernetes Service (AKS) – The Big Picture",
             "institution": "Pluralsight – Manoj Nair",
             "period": "2020"
-        },   
+        },
         {
             "name": "Getting Started with Kubernetes",
             "institution": "Pluralsight – Nigel Poulton",
             "period": "2020"
-        },   
+        },
+        {
+            "name": "Microsoft Azure Developer: Performing Unit Testing & Integration Testing",
+            "institution": "Pluralsight – Rusty Divine",
+            "period": "2020"
+        },
         {
             "name": "Microsoft Azure Developer: Performing Load Testing",
             "institution": "Pluralsight – Mick Badran",
             "period": "2020"
-        },    
+        },
         {
             "name": "Microsoft Azure Developer: Designing a Test Strategy",
             "institution": "Pluralsight – Scott Tate",
             "period": "2020"
-        },    
+        },
         {
             "name": "Microsoft Azure: The Big Picture",
             "institution": "Pluralsight – Matt Milner",
             "period": "2020"
-        },    
+        },
         {
             "name": "Spring Integration: Getting Started",
             "institution": "Pluralsight – Jesper De Jong",
             "period": "2020"
-        },    
+        },
         {
             "name": "Spring Framework: Creating Your First Spring Boot Application",
             "institution": "Pluralsight – Dan Bunker",
             "period": "2020"
-        },        
+        },
         {
             "name": "CukenFest Online - A BDD Conference",
             "institution": "cukenfest.cucumber.io",
