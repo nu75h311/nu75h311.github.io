@@ -17,6 +17,11 @@
     ],
     "technical": [
         {
+            "name": "Azure Kubernetes Service (AKS) – The Big Picture",
+            "institution": "Pluralsight – Manoj Nair",
+            "period": "2020"
+        },   
+        {
             "name": "Getting Started with Kubernetes",
             "institution": "Pluralsight – Nigel Poulton",
             "period": "2020"
