@@ -25,7 +25,7 @@
         ],
         "results": [
             "Test strategy implementation for multiple teams, defining the functional level test automation framework.",
-            "Shaping the way requirements are understood with 3-amigos sessions to indentify executable specification",
+            "Shaping the way requirements are understood with 3-amigos sessions to identify executable specification",
             "Production of living documentation that incorporates requirements, test plans and test results."
         ],
         "technologies": "Java, Maven, JavaFX, TestFX, Cucumber, Serenity-BDD, JavaScript, npm, React, Cypress, Spring Cloud Contract, RestAssured, Python, RobotFramework."
