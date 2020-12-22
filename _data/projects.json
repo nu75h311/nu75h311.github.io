@@ -1,8 +1,32 @@
 [
     {
         "role": "Test Engineer",
+        "name": "TomTom – Autostream",
+        "period": "Aug/2020 – Present",
+        "summary": [
+            "TomTom's Autostream provides a cloud infrastructure service to provide High Definition maps to in-car clients."
+        ],
+        "situation": [
+            "The Autostream project is divided into the cloud-backend service and in-car client applications. Prior to going live into Production, the backend service was in need of a senior Test Engineer to help build and maintain the testing framework used in the project's CI pipeline to ensure fast and reliable feedback."
+        ],
+        "task": [
+            "Pick up the tasks from the previous Test Engineer in maintaining and creating new test scenarios for the existing and new services, while improving the current implementations."
+        ],
+        "activities": [
+            "Define, document and implement the test automation framework for the cloud services.",
+            "Automate test reports.",
+            "Research alternative approaches to testing with new technologies."
+        ],
+        "results": [
+            "A well defined template for the test automation framework.",
+            "Easy to read and maintain test code, with useful external reports."
+        ],
+        "technologies": "Azure, Java, Maven, Spring, Spring Cloud Contract, Cucumber, RestAssured, Python."
+    },
+    {
+        "role": "Test Engineer",
         "name": "ASML – LithoInsight Alignment",
-        "period": "Dec/2017 – present",
+        "period": "Dec/2017 – Jul/2020",
         "summary": [
             "Besides the lithography machines, ASML also provides software products for analysis of reserch and development data. One of these applications is a monolith with many tools that help evaluate microchip architecture strategies and provide improvement suggestions through mathematical simulations."
         ],
@@ -25,7 +49,7 @@
         ],
         "results": [
             "Test strategy implementation for multiple teams, defining the functional level test automation framework.",
-            "Shaping the way requirements are understood with 3-amigos sessions to identify executable specification",
+            "Shaping the way requirements are understood with 3-amigos sessions to identify executable specification.",
             "Production of living documentation that incorporates requirements, test plans and test results."
         ],
         "technologies": "Java, Maven, JavaFX, TestFX, Cucumber, Serenity-BDD, JavaScript, npm, React, Cypress, Spring Cloud Contract, RestAssured, Python, RobotFramework."
