@@ -2,8 +2,18 @@
     "jobs": [
         {
             "role": "Test Engineer",
+            "company": "TomTom",
+            "period": "Aug/2020 – present",
+            "achievements": [
+                "Revamped the test automation framework at multiple levels, with focus on maintainability and scalability.",
+                "Defined the template for testing modules within various containerized services.",
+                "Brought modern tools and techniques to the team's Continuous Integration cycle."
+            ]
+        },
+        {
+            "role": "Test Engineer",
             "company": "WAES (allocated @ ASML)",
-            "period": "Nov/2017 – present",
+            "period": "Nov/2017 – Jul/2020",
             "achievements": [
                 "Implemented the test strategy for multiple teams, defining the functional level test automation framework.",
                 "Shaped the Way of Working for quality in the team (from defining requirements for Behavior Driven Development to producing automated documentation).",
