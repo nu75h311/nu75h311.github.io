@@ -32,7 +32,7 @@
         },
         {
             "name": "Agile",
-            "score": 90,
+            "score": 100,
             "experience": 8
         },
         {
@@ -42,7 +42,7 @@
         },
         {
             "name": "Waterfall",
-            "score": 100,
+            "score": 90,
             "experience": 8
         }
     ],
@@ -121,7 +121,7 @@
         },
         {
             "name": "RestAssured",
-            "score": 80,
+            "score": 90,
             "experience": 2
         },
         {
@@ -130,9 +130,19 @@
             "experience": 1
         },
         {
+            "name": "TestContainers",
+            "score": 70,
+            "experience": 2
+        },
+        {
             "name": "GIT",
             "score": 70,
             "experience": 4
+        },
+        {
+            "name": "Azure",
+            "score": 50,
+            "experience": 1
         },
         {
             "name": "Maven",
