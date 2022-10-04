@@ -4,12 +4,11 @@
     "date-of-birth": "18-Sep-1984",
     "residence": {
         "city": "Veldhoven",
-        "country": "the Netherlands"
+        "country": "Netherlands"
     },
     "languages": "Portuguese (native), English, French",
     "nationality": "Brazilian",
-    "title-1": "Test Engineer",
-    "title-2": "Quality Assurance Specialist",
+    "title-1": "Lead QA Engineer",
     "experience-since": "2005",
     "social-links": {
         "github": "nu75h311",
@@ -20,10 +19,9 @@
         "cv": "Adriano_Tanoue_cv.pdf"
     },
     "summary": [
-        "Proven QA Specialist with 14+ years of experience helping companies ranging from small businesses to multinationals.",
+        "Proven Quality Engineering Specialist with 17+ years of experience helping companies ranging from small businesses to multinationals.",
         "Award-winning execution and delivery.",
         "Knack for creating and providing training that expands team capabilities.",
-        "Excellent interpersonal, phone, and digital communication skills.",
         "Open-minded and experimentation driven."
     ]
 }

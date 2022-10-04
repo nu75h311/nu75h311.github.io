@@ -1,8 +1,34 @@
 [
     {
+        "role": "Lead Test Engineer",
+        "name": "ASML - Overlay Analytics",
+        "period": "Sep/2021 - Nov/2022",
+        "summary": [
+            "ASML provides their customers with Analytics tools that illustrate and predict their machines' performance."
+        ],
+        "situation": [
+            "The Overlay Analytics department had multiple teams working on different projects using different technologies. The was no unified vision for testing and quality engineering given the different nature of each project."
+        ],
+        "task": [
+            "Improve the test strategy and approach of the teams in the department, act as the Test Engineer for one of the teams and help hire new Test Engineers (including other departments)."
+        ],
+        "activities": [
+            "Define, document and implement the test automation framework for the projects.",
+            "Help design the test architecture and qualification pipelines.",
+            "Coach multiple teams into BDD practices.",
+            "Conduct technical interviews for hires in multiple teams."
+        ],
+        "results": [
+            "An Agile approach to testing, from designed architecture and framework to implementation and continuous integration.",
+            "Teams have a better understanding of how testing should be handled in an Agile setting.",
+            "Better use of testing tools (e.g. usage of fixtures and state management for concise and focused scenarios)."
+        ],
+        "technologies": "Java, Maven, Spring, Spring Cloud Contract, RestAssured, TypeScript, Cypress, React, Cucumber."
+    },
+    {
         "role": "Test Engineer",
-        "name": "TomTom – Autostream",
-        "period": "Aug/2020 – Present",
+        "name": "TomTom - Autostream",
+        "period": "Aug/2020 - Aug/2021",
         "summary": [
             "TomTom's Autostream provides a cloud infrastructure service to provide High Definition maps to in-car clients."
         ],
@@ -25,8 +51,8 @@
     },
     {
         "role": "Test Engineer",
-        "name": "ASML – LithoInsight Alignment",
-        "period": "Dec/2017 – Jul/2020",
+        "name": "ASML - LithoInsight Alignment",
+        "period": "Dec/2017 - Jul/2020",
         "summary": [
             "Besides the lithography machines, ASML also provides software products for analysis of reserch and development data. One of these applications is a monolith with many tools that help evaluate microchip architecture strategies and provide improvement suggestions through mathematical simulations."
         ],
@@ -56,8 +82,8 @@
     },
     {
         "role": "Testing Chapter Lead",
-        "name": "WAES – Organizational Structuring",
-        "period": "Oct/2018 – Aug/2019",
+        "name": "WAES - Organizational Structuring",
+        "period": "Oct/2018 - Aug/2019",
         "summary": [
             "A representative of each technical stack was chosen among the company's consultants to become the point of contact in regards to employee satisfaction, budget approvals and client management."
         ],
@@ -87,8 +113,8 @@
     },
     {
         "role": "Quality Assurance Technical Specialist",
-        "name": "Wipro – Tech Specialists Initiative",
-        "period": "Apr/2016 – Aug/2017",
+        "name": "Wipro - Tech Specialists Initiative",
+        "period": "Apr/2016 - Aug/2017",
         "summary": [
             "I was part of a selected group of professionals who were considered to be the most knowledgeable about their respective area (e.g. Software Development, Project Management and, in my case, Quality Assurance) inside Wipro’s Mastercard account.",
             "This team was put together with the intent of identifying any areas of process improvement or knowledge gaps within the whole account, then come up with a plan for upscaling overall quality of client delivery. The action plans could range from providing coaching and training to side projects of applications that automate repetitive managerial tasks."
@@ -117,8 +143,8 @@
     },
     {
         "role": "Senior Test Engineer",
-        "name": "Mastercard – Reward Solutions",
-        "period": "May/2016 – Aug/2017",
+        "name": "Mastercard - Reward Solutions",
+        "period": "May/2016 - Aug/2017",
         "summary": [
             "Mastercard has many loyalty programs to help banks and business acquire, retain and grow customer numbers. Available solutions range from point-based and cash back products to household-cardholder relationship management.",
             "While on this project, the team was transitioning from one big waterfall-type group to 2-3 smaller agile-based teams. My previous experience with Agile helped guide the team on both Testing and general Development best practices."
@@ -144,8 +170,8 @@
     },
     {
         "role": "Senior Test Engineer",
-        "name": "Mastercard – Nomos",
-        "period": "Aug/2015 – May/2016",
+        "name": "Mastercard - Nomos",
+        "period": "Aug/2015 - May/2016",
         "summary": [
             "Nomos was a Mastercard internal prototype project to automate the deployment of all applications to every high level environment (System Integration Testing, Pre-Production and Production).",
             "A small team was put together to take this project which consisted of a front-end AngularJS application managing and monitoring backend scripts running in Linux servers using REST API."
@@ -170,8 +196,8 @@
     },
     {
         "role": "Senior Test Engineer",
-        "name": "Mastercard – In Control",
-        "period": "Sep/2014 – Aug/2015",
+        "name": "Mastercard - In Control",
+        "period": "Sep/2014 - Aug/2015",
         "summary": [
             "Mastercard In Control provides a way for card issuers and cardholders to manage expenses, generate reports and create virtual cards. Every issuer and bank around the globe can have their own customized portal for Mastercard In Control.",
             "This project’s team was comprised by members from US, Ireland, Brazil and Malaysia; and featured multiple applications running in different servers for the backend and many more configurable front-end URLs."
@@ -197,8 +223,8 @@
     },
     {
         "role": "Test Lead",
-        "name": "Global Village Telecom – Products Customization",
-        "period": "Jan/2013 – Sep/2014",
+        "name": "Global Village Telecom - Products Customization",
+        "period": "Jan/2013 - Sep/2014",
         "summary": [
             "GVT is a company that offers high-speed broadband across its area of operation, paid TV with high-definition channels, as well as integrated and convergent advanced landline telephony.",
             "TV services became available later in the roster of products, so most projects at the time were focused on adapting legacy systems to accommodate the new range of services and combination of products."
@@ -226,8 +252,8 @@
     },
     {
         "role": "Quality Assurance Consultant",
-        "name": "JMalucelli Seguradora – Business Insurance Products",
-        "period": "Nov/2011 – Oct/2012",
+        "name": "JMalucelli Seguradora - Business Insurance Products",
+        "period": "Nov/2011 - Oct/2012",
         "summary": [
             "JMalucelli Seguradora is a Brazilian insurance company associated with American company Travelers since 2010 that operates exclusively with warranty insurance. Among its products, some offered are: Civil Liability, Patrimonial Insurance, Engineering Risks and Financial Lines."
         ],
@@ -253,8 +279,8 @@
     },
     {
         "role": "Project Test Coordinator",
-        "name": "HSBC - Global Technology – Card Act adaptation",
-        "period": "Sep/2009 – Nov/2011",
+        "name": "HSBC - Global Technology - Card Act adaptation",
+        "period": "Sep/2009 - Nov/2011",
         "summary": [
             "Global Technology is the IT branch of HSBC, having projects and teams distributed all over the globe. At this period the US market was coming back from the 2008 crisis, and some federal rules (Credit Card Accountability Responsibility and Disclosure Act) were put in place to prevent the issue from rising again."
         ],
@@ -282,8 +308,8 @@
     },
     {
         "role": "Test Analyst",
-        "name": "Electronic Data Systems – Commonwealth Bank of Australia Cards",
-        "period": "Apr/2005 – Mar/2008",
+        "name": "Electronic Data Systems - Commonwealth Bank of Australia Cards",
+        "period": "Apr/2005 - Mar/2008",
         "summary": [
             "EDS despite being a subsidiary of General Motors since the 1980s, had a wide range of industries for which it provided Information Technology services.",
             "While in the company, I entered the Quality Assurance realm for the first time as a Test Analyst mainly due to my fluency in English (which was required since most of the projects were outsourced)."

@@ -4,71 +4,81 @@
             "name": "Game Development",
             "level": "Post-undergraduate",
             "institution": "PUC-PR - Pontifícia Universidade Católica do Paraná",
-            "period": "2010 – 2012",
+            "period": "2010 - 2012",
             "place": "Curitiba, PR - Brazil."
         },
         {
             "name": "Electrical Engineering",
             "level": "Bachelor degree",
             "institution": "FEI - Fundação Educacional Inaciana",
-            "period": "2002 – 2006",
+            "period": "2002 - 2006",
             "place": "São Bernardo do Campo, SP - Brazil."
         }
     ],
     "technical": [
         {
-            "name": "Azure Kubernetes Service (AKS) – The Big Picture",
-            "institution": "Pluralsight – Manoj Nair",
+            "name": "Core Python 3: Getting Started",
+            "institution": "Pluralsight - Austin Bingham and Robert Smallshire",
+            "period": "2022"
+        },
+        {
+            "name": "Core Python: Big Picture",
+            "institution": "Pluralsight - Jason Olson",
+            "period": "2022"
+        },
+        {
+            "name": "Azure Kubernetes Service (AKS) - The Big Picture",
+            "institution": "Pluralsight - Manoj Nair",
             "period": "2020"
         },
         {
             "name": "Getting Started with Kubernetes",
-            "institution": "Pluralsight – Nigel Poulton",
+            "institution": "Pluralsight - Nigel Poulton",
             "period": "2020"
         },
         {
             "name": "Microsoft Azure Developer: Performing Data Integrity Testing",
-            "institution": "Pluralsight – Aram Koukia",
+            "institution": "Pluralsight - Aram Koukia",
             "period": "2020"
         },
         {
             "name": "Microsoft Azure Developer: Performing Automated End-to-end Testing",
-            "institution": "Pluralsight – Phil Jirsa",
+            "institution": "Pluralsight - Phil Jirsa",
             "period": "2020"
         },
         {
             "name": "Microsoft Azure Developer: Performing Unit Testing & Integration Testing",
-            "institution": "Pluralsight – Rusty Divine",
+            "institution": "Pluralsight - Rusty Divine",
             "period": "2020"
         },
         {
             "name": "Microsoft Azure Developer: Performing Load Testing",
-            "institution": "Pluralsight – Mick Badran",
+            "institution": "Pluralsight - Mick Badran",
             "period": "2020"
         },
         {
             "name": "Microsoft Azure Developer: Designing a Test Strategy",
-            "institution": "Pluralsight – Scott Tate",
+            "institution": "Pluralsight - Scott Tate",
             "period": "2020"
         },
         {
             "name": "Microsoft Azure for Developers: What to Use When",
-            "institution": "Pluralsight – Barry Luijbregts",
+            "institution": "Pluralsight - Barry Luijbregts",
             "period": "2020"
         },
         {
             "name": "Microsoft Azure: The Big Picture",
-            "institution": "Pluralsight – Matt Milner",
+            "institution": "Pluralsight - Matt Milner",
             "period": "2020"
         },
         {
             "name": "Spring Integration: Getting Started",
-            "institution": "Pluralsight – Jesper De Jong",
+            "institution": "Pluralsight - Jesper De Jong",
             "period": "2020"
         },
         {
             "name": "Spring Framework: Creating Your First Spring Boot Application",
-            "institution": "Pluralsight – Dan Bunker",
+            "institution": "Pluralsight - Dan Bunker",
             "period": "2020"
         },
         {
@@ -83,67 +93,67 @@
         },
         {
             "name": "Docker and Kubernetes: The Big Picture",
-            "institution": "Pluralsight – Nigel Poulton",
+            "institution": "Pluralsight - Nigel Poulton",
             "period": "2020"
         },
         {
             "name": "Introduction to Spring Cloud Contract",
-            "institution": "Pluralsight – Andrew Morgan",
+            "institution": "Pluralsight - Andrew Morgan",
             "period": "2020"
         },
         {
             "name": "Introduction to Cypress",
-            "institution": "Test Automation University – Gil Tayar",
+            "institution": "Test Automation University - Gil Tayar",
             "period": "2019"
         },
         {
             "name": "Effective Automated Testing with Spring",
-            "institution": "Pluralsight – Billy Korando",
+            "institution": "Pluralsight - Billy Korando",
             "period": "2019"
         },
         {
             "name": "Spring Framework: Spring Fundamentals",
-            "institution": "Pluralsight – Bryan Hansen",
+            "institution": "Pluralsight - Bryan Hansen",
             "period": "2019"
         },
         {
             "name": "Spring: The Big Picture",
-            "institution": "Pluralsight – Dustin Schultz",
+            "institution": "Pluralsight - Dustin Schultz",
             "period": "2019"
         },
         {
-            "name": "The MERN Stack – A React CRUD Application From Start To Finish",
-            "institution": "CodingTheSmartWay – Sebastian Eschweiler",
+            "name": "The MERN Stack - A React CRUD Application From Start To Finish",
+            "institution": "CodingTheSmartWay - Sebastian Eschweiler",
             "period": "2019"
         },
         {
             "name": "React: Getting Started",
-            "institution": "Pluralsight – Samer Buna",
+            "institution": "Pluralsight - Samer Buna",
             "period": "2019"
         },
         {
             "name": "Styling React Components",
-            "institution": "Pluralsight – Jake Trent",
+            "institution": "Pluralsight - Jake Trent",
             "period": "2019"
         },
         {
             "name": "RESTful Web Services with Node.js and Express",
-            "institution": "Pluralsight – Jonathan Mills",
+            "institution": "Pluralsight - Jonathan Mills",
             "period": "2019"
         },
         {
             "name": "AWS Developer: The Big Picture",
-            "institution": "Pluralsight – Ryan Lewis",
+            "institution": "Pluralsight - Ryan Lewis",
             "period": "2019"
         },
         {
             "name": "Modern Java: The Big Picture",
-            "institution": "Pluralsight – Sander Mak",
+            "institution": "Pluralsight - Sander Mak",
             "period": "2019"
         },
         {
             "name": "Java EE: The Big Picture",
-            "institution": "Pluralsight – Antonio Goncalves",
+            "institution": "Pluralsight - Antonio Goncalves",
             "period": "2019"
         },
         {
@@ -153,12 +163,12 @@
         },
         {
             "name": "BDD with Cucumber and Serenity BDD",
-            "institution": "SerenityDojo – John Ferguson Smart",
+            "institution": "SerenityDojo - John Ferguson Smart",
             "period": "2018"
         },
         {
             "name": "Professional Java Development Skills for Testers",
-            "institution": "SerenityDojo – John Ferguson Smart",
+            "institution": "SerenityDojo - John Ferguson Smart",
             "period": "2018"
         },
         {
@@ -168,37 +178,37 @@
         },
         {
             "name": "Protractor: End to End testing framework for AngularJS Apps",
-            "institution": "Udemy – Rahul Arora",
+            "institution": "Udemy - Rahul Arora",
             "period": "2017"
         },
         {
             "name": "Test Automation with Appium, Cucumber and Ruby",
-            "institution": "Udemy – Alex Petrovski",
+            "institution": "Udemy - Alex Petrovski",
             "period": "2017"
         },
         {
             "name": "The Complete JavaScript Course: Build a Real-World Project",
-            "institution": "Udemy – Jonas Schmedtmann",
+            "institution": "Udemy - Jonas Schmedtmann",
             "period": "2017"
         },
         {
             "name": "JavaScript: Understanding the Weird Parts",
-            "institution": "Udemy – Anthony Alicea",
+            "institution": "Udemy - Anthony Alicea",
             "period": "2017"
         },
         {
             "name": "Understanding TypeScript",
-            "institution": "Udemy – Maximilian Schwarzmüller",
+            "institution": "Udemy - Maximilian Schwarzmüller",
             "period": "2017"
         },
         {
             "name": "Mockito Tutorial : Learn mocking with 25 Junit Examples",
-            "institution": "Udemy – in28Minutes",
+            "institution": "Udemy - in28Minutes",
             "period": "2017"
         },
         {
             "name": "Master Jenkins Course For Developers and DevOps",
-            "institution": "Udemy – Renju Ratheesh",
+            "institution": "Udemy - Renju Ratheesh",
             "period": "2016"
         },
         {
@@ -208,27 +218,27 @@
         },
         {
             "name": "Selenium WebDriver With Java - Novice To Ninja",
-            "institution": "Udemy – Lets Kode It",
+            "institution": "Udemy - Lets Kode It",
             "period": "2016"
         },
         {
             "name": "Presentation Skills: Create Killer Presentations to WoW",
-            "institution": "Udemy – Jeff Tan",
+            "institution": "Udemy - Jeff Tan",
             "period": "2016"
         },
         {
             "name": "Behavior Driven development with JBehave",
-            "institution": "Wipro – Felipe Carvalho",
+            "institution": "Wipro - Felipe Carvalho",
             "period": "2015"
         },
         {
             "name": "Front End Test Automation",
-            "institution": "Wipro – Rodrigo Machado",
+            "institution": "Wipro - Rodrigo Machado",
             "period": "2015"
         },
         {
             "name": "Core Java for Testers",
-            "institution": "Wipro – Rodrigo Machado",
+            "institution": "Wipro - Rodrigo Machado",
             "period": "2015"
         }
     ]

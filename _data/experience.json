@@ -1,9 +1,24 @@
 {
     "jobs": [
         {
+            "role": "Lead QA Engineer",
+            "company": "Hudl",
+            "period": "Nov/2022 - present",
+            "achievements": []
+        },
+        {
+            "role": "Lead Test Engineer",
+            "company": "ASML",
+            "period": "Sep/2021 - Nov/2022",
+            "achievements": [
+                "Helped multiple teams define their test strategy and qualification pipeline.",
+                "Brought up business and development teams in BDD practices through workshops and knowledge sharing."
+            ]
+        },
+        {
             "role": "Test Engineer",
             "company": "TomTom",
-            "period": "Aug/2020 – present",
+            "period": "Aug/2020 - Aug/2021",
             "achievements": [
                 "Revamped the test automation framework at multiple levels, with focus on maintainability and scalability.",
                 "Defined the template for testing modules within various containerized services.",
@@ -13,7 +28,7 @@
         {
             "role": "Test Engineer",
             "company": "WAES (allocated @ ASML)",
-            "period": "Nov/2017 – Jul/2020",
+            "period": "Nov/2017 - Jul/2020",
             "achievements": [
                 "Implemented the test strategy for multiple teams, defining the functional level test automation framework.",
                 "Shaped the Way of Working for quality in the team (from defining requirements for Behavior Driven Development to producing automated documentation).",
@@ -23,28 +38,26 @@
         {
             "role": "QA Technical Specialist",
             "company": "Wipro Technologies (allocated @ Mastercard)",
-            "period": "Set/2014 – Aug/2017",
+            "period": "Set/2014 - Aug/2017",
             "achievements": [
                 "Spearheaded manual-to-automation transition of QA Team.",
                 "Led QA in newly formed Technical Specialists Team.",
-                "Created the first ever Quality Assurance upscale training to help a team with various levels of experience to scale up multiple degrees in short time.",
-                "Delivered workshops to make development teams across the company more quality oriented and cross functional."
+                "Created the first ever Quality Assurance upscale training to help a team scale up."
             ]
         },
         {
             "role": "Test Lead",
             "company": "Telefônica Brasil (former Global Village Telecom)",
-            "period": "Jan/2013 – Sep/2014",
+            "period": "Jan/2013 - Sep/2014",
             "achievements": [
                 "Created and standardized a tool to generate test execution daily reports for all active projects.",
-                "Led the definition of a Quality Assurance framework for testing teams.",
                 "Automated the setup of test environments reducing a 4 hours effort to 20 minutes."
             ]
         },
         {
             "role": "QA Consultant",
             "company": "Cognizant Solutions (allocated @ JMalucelli Seguradora)",
-            "period": "Nov/2011 – Oct/2012",
+            "period": "Nov/2011 - Oct/2012",
             "achievements": [
                 "Built the QA process of the client company from ground up, with no ALM tools.",
                 "Nominated by Travelers consultants to in interchanging roles between QA and project manager whenever required."
@@ -53,16 +66,13 @@
         {
             "role": "Test Coordinator",
             "company": "HSBC Global Technology",
-            "period": "Sep/2009 – Nov/2011",
-            "achievements": [
-                "HSBC RISE awarded for efforts in mentoring new team members.",
-                "Orchestrated multi-functional, internationally scattered teams in developing Test Plans, Test Strategies and Test Execution for several projects."
-            ]
+            "period": "Sep/2009 - Nov/2011",
+            "achievements": []
         },
         {
             "role": "Test Analyst",
             "company": "Hewlett-Packard (former Electronic Data Systems)",
-            "period": "Apr/2005 – Mar/2008",
+            "period": "Apr/2005 - Mar/2008",
             "achievements": []
         }
     ]

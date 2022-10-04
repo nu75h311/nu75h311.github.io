@@ -1,12 +1,11 @@
 {% assign info = site.data.general %}
 
 <div class="top-banner">
-    <div class="contact-text">
-        <p>
-            {{ info.residence.city }},<br>
-            {{ info.residence.country }}
+    <div>
+        <p class="contact-text">
+            {{ info.residence.city }}, {{ info.residence.country }}<br>
+            <a href="mailto:{{ info.email }}">{{ info.email }}</a>
         </p>
-        <a href="mailto:{{ info.email }}">{{ info.email }}</a>
     </div>
     
     <div class="social-links">
