@@ -4,7 +4,10 @@
             "role": "Lead QA Engineer",
             "company": "Hudl",
             "period": "Nov/2022 - present",
-            "achievements": []
+            "achievements": [
+                "Led the development of a testing framework that reduced days of manual validations to minutes of automated tests.",
+                "Helped teams introduce and maintain mid-level automated tests to their build pipelines."
+            ]
         },
         {
             "role": "Lead Test Engineer",

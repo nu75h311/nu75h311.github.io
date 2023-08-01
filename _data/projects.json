@@ -1,5 +1,31 @@
 [
     {
+        "role": "Lead QA Engineer",
+        "name": "Hudl - Video Capture & Distribution",
+        "period": "Nov/2022 - Present",
+        "summary": [
+            "Hudl provides a camera that captures games for various sports and produces a tactical view to be stored in the cloud for its customers."
+        ],
+        "situation": [
+            "The VC&D teams change and improve the camera's software that produces the video, but these changes were manually validated by watching baseline versus modified footage for different situations. Validation of ~60 clips would take around 4 days for one person.",
+            "Most of the components that make up the camera's software had unit tests and were covered in a high level end-to-end regression test suite, but the gap in between made component-level problems difficult to catch early."
+        ],
+        "task": [
+            "Automate the validation of the tactical video, making checking for regressions a more streamlined process.",
+            "Design and implement component-level testing."
+        ],
+        "activities": [
+            "Define, document and implement the test automation framework for this project and mid level tests.",
+            "Design the test architecture and qualification pipeline.",
+            "Conduct technical interviews for new hires."
+        ],
+        "results": [
+            "The time to validate regressions on the usual ~60 clips reduced to one (automated) hour, plus the possibility to check other ~50 clips from different sports.",
+            "Component-level tests run in the pipeline, covering components in isolation."
+        ],
+        "technologies": "Python, Pytest, TeamCity, AWS."
+    },
+    {
         "role": "Lead Test Engineer",
         "name": "ASML - Overlay Analytics",
         "period": "Sep/2021 - Nov/2022",

@@ -64,7 +64,7 @@
         },
         {
             "name": "Python",
-            "score": 40,
+            "score": 60,
             "experience": 2
         }
     ],
@@ -125,12 +125,22 @@
             "experience": 5
         },
         {
+            "name": "Pytest",
+            "score": 60,
+            "experience": 1
+        },
+        {
             "name": "GIT",
             "score": 70,
             "experience": 7
         },
         {
             "name": "Azure",
+            "score": 50,
+            "experience": 1
+        },
+        {
+            "name": "AWS",
             "score": 50,
             "experience": 1
         },
